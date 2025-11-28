@@ -8,8 +8,6 @@ color_scheme: light
 url: https://faultxcloud.github.io
 baseurl: /fx.rn10p.docs
 
-# WAJIB untuk GitHub Pages
-baseurl: /fx.rn10p.docs
 
 logo: "/assets/fx-docs2.svg"
 favicon_ico: "/assets/favicon.ico"

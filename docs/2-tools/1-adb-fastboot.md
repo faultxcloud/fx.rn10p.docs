@@ -16,14 +16,14 @@ Download & extract:
   - [ADB (Windows)](https://cloud03.faultx.workers.dev/1:/ADB%20Fastboot/adb-setup-1.4.3.zip?a=view)
   - [Mi Unlock Tools](https://cloud03.faultx.workers.dev/1:/Mi%20Unlock/miflash_unlock_en_7.6.727.43.zip?a=view)
 
-![](/assets/images/adb-fastboot/1.png)
+![]({{ site.baseurl }}/assets/images/adb-fastboot/1.png)
 
 ### Step 2
   
 Double click ➜ `adb-setup-1.4.3.exe`  
 Then press the key ➜ **Y**  
 _See the image below_
-![](/assets/images/adb-fastboot/2.png)
+![]({{ site.baseurl }}/assets/images/adb-fastboot/2.png)
 
 
 ### Step 3
