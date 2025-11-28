@@ -5,8 +5,8 @@ remote_theme: just-the-docs/just-the-docs
 
 color_scheme: light
 
-# Ganti dengan domain Anda
-url: https://faultxcloud.github.io 
+url: https://faultxcloud.github.io
+baseurl: /fx.rn10p.docs
 
 # WAJIB untuk GitHub Pages
 baseurl: /fx.rn10p.docs
