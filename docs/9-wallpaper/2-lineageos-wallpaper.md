@@ -1,0 +1,15 @@
+---
+layout: default
+title: LineageOS
+parent: Wallpaper
+nav_order: 2
+---
+
+![](/assets/banner/lineageos-2.svg)
+
+# LineageOS Wallpaper
+
+
+<span class="fs-4">
+[Download](https://drive.google.com/drive/folders/18hRFNZdSpYaNY7xygnMYiXInDoeyyWOj?usp=sharing){: .btn }
+</span>

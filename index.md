@@ -1,35 +1,58 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+![](/assets/images/fx-sweet1.png)
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+```
+Device   : Redmi Note 10 Pro
+Codename : sweet
+----------------------------------
+Device   : Redmi Note 10 Pro Max
+Codename : sweetin
+Region   : India
+```
 
-More specifically, the created site:
+{: .warning }
+> _I am not responsible for anything happened to your device do at your own risk!_
+>
+> Saya tidak bertanggung jawab atas apapun yang terjadi pada perangkat Anda, lakukan dengan risiko Anda sendiri!
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+Beberapa panduan di sini mungkin terlihat sederhana, tetapi sebenarnya melibatkan perubahan besar pada sistem, seperti membuka kunci bootloader, memasang recovery kustom, flashing ROM, atau melakukan root.  
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Semua proses ini aman jika dilakukan dengan benar, namun tetap memiliki risiko yang penting untuk kamu ketahui.
 
-To get started with creating a site, simply:
+ **Hal-hal penting sebelum mulai:**
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+- **Bootloop / perangkat tidak bisa masuk sistem:**  
+Jika salah memilih file atau langkahnya tidak tepat, hp bisa stuck di logo atau tidak bisa masuk sistem.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+- **TEE Broken (Trusted Execution Environment):**  
+Kesalahan flashing bisa merusak modul keamanan bawaan hp. Dampaknya bisa berupa:  
+    - Widevine turun ke L3 (kualitas streaming jadi lebih rendah)  
+    - Play Integrity gagal (beberapa aplikasi menganggap perangkat tidak aman)  
+    - Sensor sidik jari atau Face Unlock jadi tidak stabil  
+    - Sangat berbahaya untuk melakukan *relock* bootloader
 
-----
+- **Privasi & aplikasi perbankan:**  
+Perubahan pada sistem seperti root, custom ROM, atau TEE yang rusak dapat membuat aplikasi seperti:  
+   - Mobile banking  
+   - E-wallet (Dana, OVO, Gopay, ShopeePay)  
+   - Aplikasi kantor/kerja yang memakai keamanan tinggi  
+   mendeteksi perangkat sebagai "tidak aman" dan menolak untuk dibuka.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+ - **Keamanan data pribadi:**  
+   Memodifikasi sistem bisa membuka potensi celah keamanan. Pastikan file yang digunakan berasal dari sumber terpercaya.  
+   Jika salah flashing, perangkat bisa masuk kondisi yang membuat data personal tidak bisa dipulihkan.
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+ - **Relock Bootloader:**  
+   Jangan mengunci kembali bootloader jika perangkat tidak benar-benar *stock*. Ini bisa menyebabkan kerusakan permanen.
+
+ - **Backup itu wajib:**  
+   Banyak proses akan menghapus data internal. Cadangkan semua data penting sebelum mulai.
+
+ Panduan ini dibuat agar kamu bisa melakukan semuanya dengan aman.  
+ Baca langkah-langkah dengan teliti, gunakan file yang tepat untuk *Redmi Note 10 Pro (sweet/sweetin)*, dan jangan terburu-buru.
