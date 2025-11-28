@@ -1,6 +1,7 @@
 title: FaultX Redmi Note 10 Pro Docs
 description: Redmi Note 10 Pro Documentation
-theme: just-the-docs
+
+remote_theme: just-the-docs/just-the-docs
 
 color_scheme: light
 
