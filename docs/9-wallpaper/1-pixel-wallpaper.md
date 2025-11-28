@@ -5,7 +5,7 @@ parent: Wallpaper
 nav_order: 1
 ---
 
-![](/assets/banner/google-2.svg)
+![]({{ site.baseurl }}/assets/banner/google-2.svg)
 
 # Google Pixel Wallpaper
 

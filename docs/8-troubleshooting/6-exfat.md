@@ -32,10 +32,11 @@ Cara merubah format SDCard `FAT32` ke `exFAT` menggunakan custom recovery _Orang
 <details close markdown="1">
 <summary markdown="span">📸 **Perhatikan step by step dengan teliti..**</summary>  
 
-![](/assets/images/exfat/1.png)  
+![]({{ site.baseurl }}/assets/images/exfat/1.png)  
 
-![](/assets/images/exfat/2.png)  
+![]({{ site.baseurl }}/assets/images/exfat/2.png)  
 
-![](/assets/images/exfat/3.png)  
+![]({{ site.baseurl }}/assets/images/exfat/3.png)  
 
-![](/assets/images/exfat/4.png)  
+![]({{ site.baseurl }}/assets/images/exfat/4.png)  
+</details>

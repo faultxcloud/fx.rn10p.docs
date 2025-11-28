@@ -30,7 +30,7 @@ Kadang bisa (melalui flash firmware atau pemulihan key),
 tapi jika rusak pada hardware TEE → tidak bisa diperbaiki kecuali ganti mainboard.
 
 {: .note }
-> Untuk cek TEE bisa menggunakan aplikasi Momo: [Download](../assets/apk/Momo_4.4.1.apk)
+> Untuk cek TEE bisa menggunakan aplikasi Momo: [Download]({{ site.baseurl }}/assets/apk/Momo_4.4.1.apk)
 
 
 ---
@@ -67,7 +67,7 @@ tapi jika rusak pada hardware TEE → tidak bisa diperbaiki kecuali ganti mainbo
     adb shell LD_LIBRARY_PATH=/vendor/lib64/hw KmInstallKeybox /data/nativetest64/qti_keymaster_tests/sw.xml sw true
     ```
 - If the message says: `TEE done Installkeybox is done!` , it means it's correct  
-![](../assets/images/fix-tee/6-tee.jpeg)
+![]({{ site.baseurl }}/assets/images/fix-tee/6-tee.jpeg)
 - Flash the Stock ROM MIUI using MiFlash (Flash all and lock)
 - Done!
 
@@ -76,9 +76,9 @@ Thanks for [chiteroman](https://github.com/chiteroman)
 <details close markdown="1">
 <summary markdown="span">📸 **Dokumentasi saat saya Fix TEE Broken**</summary>
    
-![](/assets/images/fix-tee/1-tee.jpeg)
-![](/assets/images/fix-tee/2-tee.jpeg)
-![](/assets/images/fix-tee/3-tee.jpeg)
-![](assets/images/fix-tee/4-tee.jpeg)
-![](/assets/images/fix-tee/5-tee.jpeg)
-![](/assets/images/fix-tee/6-tee.jpeg)
+![]({{ site.baseurl }}/assets/images/fix-tee/1-tee.jpeg)
+![]({{ site.baseurl }}/assets/images/fix-tee/2-tee.jpeg)
+![]({{ site.baseurl }}/assets/images/fix-tee/3-tee.jpeg)
+![]({{ site.baseurl }}/assets/images/fix-tee/4-tee.jpeg)
+![]({{ site.baseurl }}/assets/images/fix-tee/5-tee.jpeg)
+![]({{ site.baseurl }}/assets/images/fix-tee/6-tee.jpeg)

@@ -5,7 +5,7 @@ parent: ROM
 nav_order: 1
 ---
 
-![Download MIUI](/assets/images/dl-miui.png)
+![Download MIUI]({{ site.baseurl }}/assets/images/dl-miui.png)
 
 
 # MIUI Official ROM

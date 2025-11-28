@@ -50,15 +50,16 @@ Jika kamu butuh **Stock MIUI Splash** atau mengembalikanya bisa kamu download da
 <details close markdown="1">
   <summary markdown="span">📸 **Splash Screen**</summary>
 
-![](/assets/splash/img/splashscreen-faultx-1.jpeg)
-![](/assets/splash/img/splashscreen-faultx-2.jpeg)
-![](/assets/splash/img/splashscreen-faultx-3.jpeg)
-![](/assets/splash/img/splashscreen-faultx-4.jpeg)
-![](/assets/splash/img/splashscreen-faultx-5.jpeg)
-![](/assets/splash/img/splashscreen-faultx-6.jpeg)
-![](/assets/splash/img/splashscreen-faultx-7.jpeg)
-![](/assets/splash/img/splashscreen-faultx-8.jpeg)
-![](/assets/splash/img/splashscreen-faultx-9.jpeg)
-![](/assets/splash/img/splashscreen-faultx-10.jpeg)
-![](/assets/splash/img/splashscreen-faultx-11.jpeg)
-![](/assets/splash/img/splashscreen-faultx-12.jpeg)
+![]({{ site.baseurl }}/assets/splash/img/splashscreen-faultx-1.jpeg)
+![]({{ site.baseurl }}/assets/splash/img/splashscreen-faultx-2.jpeg)
+![]({{ site.baseurl }}/assets/splash/img/splashscreen-faultx-3.jpeg)
+![]({{ site.baseurl }}/assets/splash/img/splashscreen-faultx-4.jpeg)
+![]({{ site.baseurl }}/assets/splash/img/splashscreen-faultx-5.jpeg)
+![]({{ site.baseurl }}/assets/splash/img/splashscreen-faultx-6.jpeg)
+![]({{ site.baseurl }}/assets/splash/img/splashscreen-faultx-7.jpeg)
+![]({{ site.baseurl }}/assets/splash/img/splashscreen-faultx-8.jpeg)
+![]({{ site.baseurl }}/assets/splash/img/splashscreen-faultx-9.jpeg)
+![]({{ site.baseurl }}/assets/splash/img/splashscreen-faultx-10.jpeg)
+![]({{ site.baseurl }}/assets/splash/img/splashscreen-faultx-11.jpeg)
+![]({{ site.baseurl }}/assets/splash/img/splashscreen-faultx-12.jpeg)
+</details>

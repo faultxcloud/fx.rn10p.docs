@@ -83,7 +83,7 @@ MEETS_STRONG_INTEGRITY
 
 Ini adalah hasil resmi langsung dari **Google Play Services**.
 
-![](/assets/images/playintegrity-ss.png)
+![]({{ site.baseurl }}/assets/images/playintegrity-ss.png)
 
 ---
 

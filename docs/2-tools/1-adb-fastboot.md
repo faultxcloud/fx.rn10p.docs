@@ -32,47 +32,47 @@ Make sure ➜ ☑️ _Always trust software from "Gooogle Inc"_ , Then click **"
 
 ### Step 4
 Click ➜ **Next**
-![](/assets/images/adb-fastboot/4.png)
+![]({{ site.baseurl }}/assets/images/adb-fastboot/4.png)
 
 
 ### Step 5
 The message "Ready to use" will appear.
 Click **"Finish"** 
-![](/assets/images/adb-fastboot/5.png)
+![]({{ site.baseurl }}/assets/images/adb-fastboot/5.png)
 
 ### Step 6
 Double click `miflash_unlock.exe`
-![](/assets/images/adb-fastboot/6.png)
+![]({{ site.baseurl }}/assets/images/adb-fastboot/6.png)
 
 ### Step 7
 
-![](/assets/images/adb-fastboot/7.png)
+![]({{ site.baseurl }}/assets/images/adb-fastboot/7.png)
 
 ### Step 8
 Click the **"Gear"** icon (see the red circle)
-![](/assets/images/adb-fastboot/8.png)
+![]({{ site.baseurl }}/assets/images/adb-fastboot/8.png)
 
 ### Step 9
 - Open **Device Manager** (Click the **Start** button (Windows logo) ➜ Type **Device Manager** in the search bar ➜ Click on the **Device Manager** result)
 - Connect your device to the computer via USB cable
 - If Device Manager shows **`⚠︎ Android`** it means the fastboot driver has not been installed correctly
 - Click ➜ **Check** _"Click the button to install drive"_
-![](/assets/images/adb-fastboot/9.png)
+![]({{ site.baseurl }}/assets/images/adb-fastboot/9.png)
 
 ### Step 10
 - If it says **"Connect your device again"**, unplug the USB and reconnect your device to the computer
 - The driver should then install automatically
-![](/assets/images/adb-fastboot/10.png)
+![]({{ site.baseurl }}/assets/images/adb-fastboot/10.png)
 
 ### Step 11
 If the installation is successful, the display will look like the image below.  
 
 Then **Close** `Mi Unlock`.
-![](/assets/images/adb-fastboot/11.png)
+![]({{ site.baseurl }}/assets/images/adb-fastboot/11.png)
 
 ### Step 12
 - Open Terminal / CMD
 - Type the command: `fastboot devices`  
 
 If the result looks like this, you're done 🎉.
-![](/assets/images/adb-fastboot/12.png)
+![]({{ site.baseurl }}/assets/images/adb-fastboot/12.png)

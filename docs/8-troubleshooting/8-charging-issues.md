@@ -39,7 +39,7 @@ Cara untuk mengetahui IC charger mana yang dimiliki perangkat kamu adalah menggu
 </span>  
 
 Setelah kamu install dan buka aplikasinya, perhatikan gamabar dibawah ini:
-![](/assets/images/ic-charging.png)  
+![]({{ site.baseurl }}/assets/images/ic-charging.png)  
 
 Perhatikan tanda panah merah, menunjukan: **`ln8000_charger`**.  
 

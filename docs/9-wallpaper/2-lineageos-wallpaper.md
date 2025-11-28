@@ -5,7 +5,7 @@ parent: Wallpaper
 nav_order: 2
 ---
 
-![](/assets/banner/lineageos-2.svg)
+![]({{ site.baseurl }}/assets/banner/lineageos-2.svg)
 
 # LineageOS Wallpaper
 

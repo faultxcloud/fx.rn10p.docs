@@ -62,4 +62,4 @@ macOS / Linux user = $ `chmod +x .sh`
 | [MIUI 12](https://github.com/TriHermawan/RedmiNote10Pro/blob/main/script/debloat-miui-12.bat) | [MIUI 12](https://github.com/TriHermawan/RedmiNote10Pro/blob/main/script/debloat-miui-12.sh) |
 | [MIUI 13-14](https://github.com/TriHermawan/RedmiNote10Pro/blob/main/script/debloat-miui-13-14.bat) | [MIUI 13-14](https://github.com/TriHermawan/RedmiNote10Pro/blob/main/script/debloat-miui-13-14.sh) |  
 
-![](/assets/images/debloat-script.png)
+![]({{ site.baseurl }}/assets/images/debloat-script.png)

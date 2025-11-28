@@ -45,14 +45,15 @@ Jika dibiarkan terlalu lama biasanya berujung mati-total dan tidak bisa diservis
 <details close markdown="1">
 <summary markdown="span">📸 **Dokumentasi saat saya reballing chipset CPU**</summary>
 
-![](/assets/images/hw-issues/hw-issue-01.jpg)
-![](/assets/images/hw-issues/hw-issue-02.jpg)
-![](/assets/images/hw-issues/hw-issue-03.jpg)
-![](/assets/images/hw-issues/hw-issue-04.jpg)
-![](/assets/images/hw-issues/hw-issue-05.jpg)
-![](/assets/images/hw-issues/hw-issue-06.jpg)
-![](/assets/images/hw-issues/hw-issue-07.jpg)
+![]({{ site.baseurl }}/assets/images/hw-issues/hw-issue-01.jpg)
+![]({{ site.baseurl }}/assets/images/hw-issues/hw-issue-02.jpg)
+![]({{ site.baseurl }}/assets/images/hw-issues/hw-issue-03.jpg)
+![]({{ site.baseurl }}/assets/images/hw-issues/hw-issue-04.jpg)
+![]({{ site.baseurl }}/assets/images/hw-issues/hw-issue-05.jpg)
+![]({{ site.baseurl }}/assets/images/hw-issues/hw-issue-06.jpg)
+![]({{ site.baseurl }}/assets/images/hw-issues/hw-issue-07.jpg)
+</details>
 
 ---
 
-[sources](https://telegra.ph/Redmi-Note-10-Pro-Hardware-IssuesHW-Issues-01-15)
+[_sources_](https://telegra.ph/Redmi-Note-10-Pro-Hardware-IssuesHW-Issues-01-15)

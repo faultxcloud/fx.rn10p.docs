@@ -4,7 +4,7 @@ title: LineageOS
 parent: ROM
 nav_order: 4
 ---
-![](/assets/images/lineageos.png)
+![]({{ site.baseurl }}/assets/images/lineageos.png)
 # LineageOS
 LineageOS adalah custom ROM open‑source yang dikenal karena stabilitas, keamanan, dan kesederhanaannya. ROM ini menawarkan pengalaman Android murni (AOSP) tanpa bloatware, dengan penekanan pada privasi dan kinerja yang konsisten.  
 
@@ -38,7 +38,7 @@ codename : sweet
 ## Download
 - [LineageOS ROM & Recovery](https://download.lineageos.org/devices/sweet/builds)
   
-![](../assets/images/install-los-pict/los-download.png)
+![]({{ site.baseurl }}/assets/images/install-los-pict/los-download.png)
     
    Rename:
   - `lineage-xx.x-xxxx-nightly-sweet-signed.zip` ➜ `rom.zip`
@@ -63,7 +63,7 @@ codename : sweet
 ## Sebelum memulai Flash LineageOS
 
 1. Pastikan semua syarat diatas sudah terpenuhi, dan semua file yang sudah di download simpan dalam 1 folder, contoh nama folder "LineageOS".
-![](../assets/images/install-los-pict/1-los.png)
+![]({{ site.baseurl }}/assets/images/install-los-pict/1-los.png)
 
 2. Buka Terminal/CMD, arahkan folder yang tadi kita buat "LineageOS" ke Terminal/CMD.
    - Ketikan perintah: **`cd`** spasi lalu drag & drop folder **LineageOS** ke Terminal/CMD lalu Enter
@@ -71,11 +71,12 @@ codename : sweet
 
 
      Jika sudah seperti gambar (contoh) dibawah ini, maka lanjut ke step berikutnya
-     ![](../assets/images/install-los-pict/2-los.png)
+     ![]({{ site.baseurl }}/assets/images/install-los-pict/2-los.png)
 3. Jika sudah dipastikan sesuai, lanjut untuk step berikutnya.
 
-## Flash ROM
+## Flash ROM  
 
+{: .note }
 Teliti dan pahami step berikut:
   
   1. Matikan device kamu
@@ -93,7 +94,7 @@ Teliti dan pahami step berikut:
      Tunggu sampai proses install recovery selesai dengan tulisan **"Done"**.
   5. Reboot device ke Recovery Mode
      Tekan dan tahan tombol **`Power` + `Volume Atas`**. Saat Logo "MI" muncul langsung lepaskan tombol **`Power`**.
-     ![](../assets/images/install-los-pict/los-recovery.png)
+     ![]({{ site.baseurl }}/assets/images/install-los-pict/los-recovery.png)
 
   6. Pilih **`Apply update`** ➜ **`Apply from ADB`**
   7. Cek untuk memastikan ADB Sideload terdeteksi di komputer:
@@ -105,7 +106,7 @@ Teliti dan pahami step berikut:
      List of devices attached
      fe4afbea        sideload ← terdeteksi
      ```
-     ![](../assets/images/install-los-pict/sideload.png)
+     ![]({{ site.baseurl }}/assets/images/install-los-pict/sideload.png)
 
      
   8. Install Firmware:
@@ -119,14 +120,18 @@ Teliti dan pahami step berikut:
      ```
      Pilih: ➜ **YES**
 
-     ![](../assets/images/install-los-pict/verifiaction-los.png)
+     ![]({{ site.baseurl }}/assets/images/install-los-pict/verifiaction-los.png)
 
      Proses akan dilanjutkan kembali, dan jika sudah selesai proses install firmware otomatis akan kembali ke menu utama recovery.
-10. Pilih **`Advanced`** ➜ **`Reboot to recovery`**.
-11. Pilih **`Factory reset`** ➜ **`Format data/factory reset`** ➜ **`Format data`**.  
-12. Jika proses Format data selesai, kembali ke menu utama recovery dengan menekan **`←`** yang ada di pojok kiri atas.
-13. Pilih **`Apply update`** ➜ **`Apply from ADB`**
-14. Kembali ke Terminal/CMD lalu install ROM:
+9. Pilih **`Advanced`** ➜ **`Reboot to recovery`**.
+
+10. Pilih **`Factory reset`** ➜ **`Format data/factory reset`** ➜ **`Format data`**. 
+
+11. Jika proses Format data selesai, kembali ke menu utama recovery dengan menekan **`←`** yang ada di pojok kiri atas.
+
+12. Pilih **`Apply update`** ➜ **`Apply from ADB`**
+
+13. Kembali ke Terminal/CMD lalu install ROM:
     ```
     adb -d sideload rom.zip
     ```
@@ -134,11 +139,14 @@ Teliti dan pahami step berikut:
     `Install completed with status 0`
     
     Proses install rom LineageOS **sudah berhasil dan selesai**.
-15. Pilih **`Reboot system now`** untuk booting ke LineageOS.
+
+14. Pilih **`Reboot system now`** untuk booting ke LineageOS.
 
     Jika kamu ingin melakukan install GApps, **Jangan untuk `Reboot system now` tapi lanjut ke step berikutnya**.
-16. Kembali ke Terminal/CMD
-17. Install GApps
+
+15. Kembali ke Terminal/CMD
+
+16. Install GApps
 
     Di Recovery pilih **`Apply update`** ➜ **`Apply from ADB`**
     ```
@@ -152,10 +160,13 @@ Teliti dan pahami step berikut:
     Pilih: **`YES`**
 
     Proses akan dilanjutkan kembali, dan jika sudah selesai proses install GApps otomatis akan kembali ke menu utama recovery.
-18. Pilih **`Factory reset`** ➜ **`Format data/factory reset`** ➜ **`Format data`**.
-19. Jika proses Format data selesai, kembali ke menu utama recovery dengan menekan **`←`** yang ada di pojok kiri atas.
-20. Pilih **`Reboot system now`** untuk booting ke LineageOS.
-21. Selesai!
+17. Pilih **`Factory reset`** ➜ **`Format data/factory reset`** ➜ **`Format data`**.
+
+18. Jika proses Format data selesai, kembali ke menu utama recovery dengan menekan **`←`** yang ada di pojok kiri atas.
+
+19. Pilih **`Reboot system now`** untuk booting ke LineageOS.
+
+20. Selesai!
 
 ## Root menggunakan Magisk (Optional)
 - Reboot ke Recovery Mode
@@ -210,12 +221,12 @@ Arsip ROM LineageOS untuk Redmi Note 10 Pro / Pro Max (`sweet / sweetin`)
 <details close markdown="1">
 <summary markdown="span"><i class="fa-solid fa-key"></i> Password</summary>
 ```
-faultxcloud.github.io/redminote10pro.docs/
+fx.rn10p.docs
 ```
 </details>
 
 
 
 <span class="fs-3">
-[Download](https://x3p1w-my.sharepoint.com/:f:/g/personal/faultx_x3p1w_onmicrosoft_com/EkpNau57UjhGs3P_pPHBnZUB9jjZPTbv5pHWq3TNcetMfw?e=02WopW){: .btn }
+[Download](https://x3p1w-my.sharepoint.com/:f:/g/personal/faultx_x3p1w_onmicrosoft_com/EkpNau57UjhGs3P_pPHBnZUBmNXLOTUyQaP1yfRu2N3uGw?e=v72Pic){: .btn }
 </span>
