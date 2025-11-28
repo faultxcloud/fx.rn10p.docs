@@ -4,6 +4,7 @@ description: Redmi Note 10 Pro Documentation
 remote_theme: just-the-docs/just-the-docs
 
 color_scheme: light
+enable_theme_toggle: true
 
 url: https://faultxcloud.github.io
 baseurl: /fx.rn10p.docs
@@ -36,7 +37,16 @@ callouts:
 back_to_top: true
 back_to_top_text: "⬆ Back to top"
 
-footer_content: "Copyright &copy; 2025 FaultX.Repair.</a>"
+footer_content: "Copyright &copy; 2025 FaultX.Repair"
 
 # aux_links:
 #  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# aux_links:
+#  " ": "#"
+
+# aux_links_include: ["custom_theme_toggle.html"]
+
+aux_links:
+  "FaultX.Repair 👀": 
+    - "https://faultxcloud.github.io/faultx.link/"
