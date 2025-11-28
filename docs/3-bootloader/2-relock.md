@@ -42,7 +42,7 @@ Ini adalah cara paling aman untuk relock bootloader di Redmi Note 10 Pro.
 
 1. **Download Fastboot ROM resmi**  
 Cari ROM model:  
-sweet (Global/EEA/Indonesia) →  [Download](/docs/5-rom/1-miui.md) _(Format file harus `.tgz`)_ lalu extract
+sweet (Global/EEA/Indonesia) →  [Download](../docs/5-rom/1-miui.md) _(Format file harus `.tgz`)_ lalu extract
   
 2. **Masuk mode Fastboot**
     - Matikan HP
