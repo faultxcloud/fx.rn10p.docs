@@ -34,9 +34,8 @@ Di beberapa device Redmi Note 10 Pro yang menggunakan Custom ROM base AOSP / non
 ## Bagaimana Cara Mengetahui IC Charger?  
 
 Cara untuk mengetahui IC charger mana yang dimiliki perangkat kamu adalah menggunakan aplikasi **Device info HW**  
-<span class="fs-3">
-[Download](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw&hl=en&gl=US){: .btn }
-</span>  
+
+[Download](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw&hl=en&gl=US){: .btn .btn-purple }
 
 Setelah kamu install dan buka aplikasinya, perhatikan gamabar dibawah ini:
 ![]({{ site.baseurl }}/assets/images/ic-charging.png)  
