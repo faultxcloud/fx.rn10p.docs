@@ -39,6 +39,7 @@ tapi jika rusak pada hardware TEE → tidak bisa diperbaiki kecuali ganti mainbo
 
 {: .note }
 > Private `keybox.xml` *(harap cari `keybox.xml` sendiri)*
+>
 > Rename `keybox.xml` to `sw.xml`
 > 
 > Test: _19 Juni 2024_
