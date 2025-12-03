@@ -1,7 +1,6 @@
 title: FaultX • Docs
 description: Documentation Redmi Note 10 Pro
-# theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs # matikan ini jika mau test di server lokal
+theme: just-the-docs
 color_scheme: "light"
 
 url: https://faultxcloud.github.io
@@ -35,6 +34,3 @@ back_to_top_text: "Back to top ⬆"
 
 footer_content: "Copyright &copy; 2025 <a href='https://faultxcloud.github.io/faultx.link/' target='_blank'>FaultX.Repair</a>"
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
