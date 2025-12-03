@@ -37,5 +37,7 @@ nav_order: 2
 Firmware + Vendor for Redmi Note 10 Pro / Pro Max  
 `codename: sweet / sweetin`
 
-`size: 700 MB±`
+`size: 700 MB±`  
+
+
 [Download](https://sourceforge.net/projects/sweet-fw-vendor/files/){: .btn .btn-purple }
