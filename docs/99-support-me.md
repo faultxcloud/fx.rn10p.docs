@@ -6,7 +6,7 @@ nav_order: 99
 
 # Feedback & Contribution
 
-Dokumentasi ini terus berkembang berdasarkan pengalaman pengguna.
+Dokumentasi ini terus berkembang berdasarkan pengalaman.
 Jika kamu punya saran, ingin berkontribusi, atau bug report, kamu bisa menghubungi saya.
 
 ❤️ Dokumentasi ini dikerjakan manual dan terus diperbarui. Jika kamu merasa dokumentasi ini membantu, kamu dapat mendukung dengan donasi agar proyek ini tetap berlanjut.
