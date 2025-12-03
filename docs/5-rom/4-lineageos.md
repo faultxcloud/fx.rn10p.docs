@@ -43,11 +43,11 @@ codename : sweet
    Rename:
   - `lineage-xx.x-xxxx-nightly-sweet-signed.zip` ➜ `rom.zip`
     
-- [Latest Firmware Only](../5-rom/2-firmware.md)
+- [Latest Firmware Only]({{ site.baseurl }}/docs/5-rom/2-firmware.html)
 
   Rename: `fw_sweet_miui_xxxxx_13.0.zip` ➜ `fw.zip`
 - Optional:
-  - [MindTheGApps](../5-rom/6-gapps.md)
+  - [MindTheGApps]({{ site.baseurl }}/docs/6-gapps/index.html)
 
     Rename: `MindTheGapps-15.0.0-arm64-xxxxx.zip` ➜ `gapps.zip`
   - [Magisk](https://github.com/topjohnwu/Magisk/releases)
