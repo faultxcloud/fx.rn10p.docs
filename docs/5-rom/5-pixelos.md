@@ -104,7 +104,7 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 - Reboot the device to **recovery**
 - Flash **OrangeFox Recovery R11.1_7**
 - Reboot to Recovery
-- Flash [Firmware Only]({{ site.baseurl }}/docs/5-rom/2-firmware/) (Optional)
+- Flash [Firmware Only]({{ site.baseurl }}/docs/5-rom/2-firmware.html) (Optional)
 - Flash PixelOS ROM ``.zip``
 - Format Data **"Yes"**
 - Reboot and voila!
