@@ -38,7 +38,7 @@ tapi jika rusak pada hardware TEE → tidak bisa diperbaiki kecuali ganti mainbo
 # <i class="fa-solid fa-code"></i> Fix TEE Broken
 
 {: .note }
-> Private `keybox.xml`  
+> Private `keybox.xml` *(harap cari `keybox.xml` sendiri)*
 > Rename `keybox.xml` to `sw.xml`
 > 
 > Test: _19 Juni 2024_

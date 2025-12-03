@@ -25,6 +25,5 @@ Versi modifikasi dari Magisk yang dibuat untuk meningkatkan kompatibilitas pada 
 **Lygisk** adalah alternatif Magisk yang dimodifikasi, cocok digunakan ketika Magisk resmi tidak berjalan stabil atau tidak kompatibel dengan ROM tertentu. Pada beberapa ROM, Lygisk dapat tetap aktif setelah update OTA, tetapi ini tidak berlaku universal.
 
 Download:  
-<span class="fs-4">
-[Lygisk](https://github.com/programminghoch10/Lygisk?tab=readme-ov-file){: .btn }
-</span> 
+
+[Lygisk](https://github.com/programminghoch10/Lygisk?tab=readme-ov-file){: .btn .btn-purple }

@@ -23,6 +23,4 @@ Metode root modern untuk Android yang bersifat systemless, artinya proses root t
 
 Download:
 
-<span class="fs-4">
-[Magisk](https://github.com/topjohnwu/Magisk){: .btn }
-</span> 
+[Magisk](https://github.com/topjohnwu/Magisk){: .btn .btn-purple }
