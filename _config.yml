@@ -35,3 +35,6 @@ back_to_top_text: "Back to top ⬆"
 
 footer_content: "Copyright &copy; 2025 <a href='https://faultxcloud.github.io/faultx.link/' target='_blank'>FaultX.Repair</a>"
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
