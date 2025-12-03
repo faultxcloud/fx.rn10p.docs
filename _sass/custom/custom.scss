@@ -1,0 +1,16 @@
+/* 1. Sembunyikan SEMUA teks di footer, termasuk tautan JTD */
+.site-footer {
+    /* Mengubah ukuran font menjadi nol untuk menyembunyikan teks */
+    font-size: 0 !important; 
+    /* Mengubah warna teks menjadi transparan (jika font-size gagal) */
+    color: transparent !important; 
+}
+
+/* 2. Kembalikan teks Copyright Kustom Anda */
+/* Pastikan ini adalah kelas pembungkus yang Anda gunakan di footer_custom.html */
+.footer-custom { 
+    /* Mengembalikan ukuran font ke normal */
+    font-size: 0.8rem !important; 
+    /* Mengembalikan warna teks ke warna default tema */
+    color: var(--jtd-text-color) !important; 
+}

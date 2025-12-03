@@ -1,0 +1,37 @@
+title: FaultX • Docs
+description: Documentation Redmi Note 10 Pro
+# theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs # matikan ini jika mau test lokal server
+color_scheme: "light"
+
+url: https://faultxcloud.github.io
+baseurl: /fx.rn10p.docs
+
+aux_links:
+  "🎁 Support Me": 
+    - "/fx.rn10p.docs/docs/99-support-me.html"
+
+favicon_ico: "/assets/favicon.ico"
+
+callouts:
+  note:
+    title: note
+    color: blue
+  warning:
+    title: warning
+    color: red
+  important:
+    title: important
+    color: purple
+  new:
+    title: new
+    color: green
+  caution:
+    title: caution
+    color: yellow
+
+back_to_top: true
+back_to_top_text: "Back to top ⬆"
+
+footer_content: "Copyright &copy; 2025 <a href='https://faultxcloud.github.io/faultx.link/' target='_blank'>FaultX.Repair</a>"
+
