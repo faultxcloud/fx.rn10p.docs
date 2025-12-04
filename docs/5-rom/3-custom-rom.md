@@ -37,7 +37,7 @@ Kumpulan Custom ROM untuk Redmi Note 10 Pro / Pro Max
 | VoltageOS | Official | [Mr Fox](http://t.me/mrfox2003) | [Telegram](https://t.me/foxbuilds) | [Download](https://www.voltageos.com/devices/download/sweet) |
 
 
-### MIUI Base
+### MIUI
 
 
 |  | Support | MIUI | Android | Download |
