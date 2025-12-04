@@ -1,7 +1,7 @@
 title: FaultX • Docs
 description: Documentation Redmi Note 10 Pro
-theme: just-the-docs
-# remote_theme: just-the-docs/just-the-docs
+# theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 color_scheme: "light"
 
 url: https://faultxcloud.github.io
