@@ -10,6 +10,7 @@ baseurl: /fx.rn10p.docs
 plugins:
   - jekyll-seo-tag 
   - jekyll-sitemap
+  - jekyll-include-cache
   
 aux_links:
   "🎁 Support Me": 

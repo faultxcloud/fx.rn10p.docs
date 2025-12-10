@@ -12,3 +12,5 @@ gem "logger", "1.6.4"
 
 gem "jekyll-feed"
 gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+gem "jekyll-include-cache"
