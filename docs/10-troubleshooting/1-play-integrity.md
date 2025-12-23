@@ -35,7 +35,7 @@ Jika perangkat tidak “lolos” verifikasi, maka layanan bisa dibatasi atau tid
 Bagi pengguna modding atau custom ROM, ini menjadi salah satu aspek yang sering terkena dampak (karena perangkat dianggap “tidak bersertifikasi”).
 
 
-*Source: Android Developers: [Overview of Play Integrity API](https://developer.android.com/google/play/integrity/overview?utm_source=chatgpt.com), Google Play Console Help: [Use the Play Integrity API](https://support.google.com/googleplay/android-developer/answer/11395166?hl=en&utm_source=chatgpt.com), Wikipedia: [Play Integrity API](https://en.wikipedia.org/wiki/Play_Integrity_API?utm_source=chatgpt.com)*
+*Source: Android Developers: [Overview of Play Integrity API](https://developer.android.com/google/play/integrity/overview), Google Play Console Help: [Use the Play Integrity API](https://support.google.com/googleplay/android-developer/answer/11395166), Wikipedia: [Play Integrity API](https://en.wikipedia.org/wiki/Play_Integrity_API)*
 {: .fs-2 }
 ---
 
