@@ -13,12 +13,10 @@
   
 {% else %}
 
-<!-- 1) Sembunyikan dulu halaman supaya nggak kelihatan "ganti tema" -->
 <script>
   document.documentElement.style.visibility = 'hidden';
 </script>
 
-<!-- 2) LOGIKA TEMA ASLI (biarkan seperti semula) -->
 <script>
   let themeLocalStorage = localStorage.getItem('theme');
   if(!themeLocalStorage) {
@@ -34,10 +32,8 @@
   }
 </script>
 
-<!-- 3) Script toggle asli, jangan diubah -->
 <script type="text/javascript" src="{{ '/assets/js/theme-switch.js' | relative_url }}" defer></script>
 
-<!-- 4) Setelah halaman selesai load, baru ditampilkan -->
 <script>
   window.addEventListener('load', function () {
     document.documentElement.style.visibility = 'visible';

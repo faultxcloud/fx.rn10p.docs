@@ -25,7 +25,7 @@ LineageOS sangat cocok bagi pengguna yang mencari pengalaman Android bersih, sta
 Device   : Redmi Note 10 Pro
 codename : sweet
 ```
-➜ [Official guide](https://wiki.lineageos.org/devices/sweet/install/variant1/#)
+➜ [<i class="bi bi-file-earmark-text"></i> Official guide](https://wiki.lineageos.org/devices/sweet/install/)
 
 
 <span class="fs-3">

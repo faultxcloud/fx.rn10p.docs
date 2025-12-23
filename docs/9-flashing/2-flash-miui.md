@@ -7,7 +7,7 @@ nav_order: 2
 
 # MIUI
 
-### Install Stock ROM MIUI via OrangeFox  
+## Install Stock ROM MIUI via OrangeFox  
 
 - [OrangeFox R11.1_6 MIUI](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip)
 
@@ -19,7 +19,7 @@ nav_order: 2
 
 ---
 
-### Install Stock ROM MIUI via MiFlash
+## Install Stock ROM MIUI via MiFlash
 
 
 1. **Download Fastboot ROM resmi**  

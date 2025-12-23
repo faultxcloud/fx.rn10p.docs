@@ -6,14 +6,15 @@ nav_order: 1
 
 ![]({{ site.baseurl }}/assets/images/fx-sweet1.png)
 
-```
-Device   : Redmi Note 10 Pro
-Codename : sweet
-----------------------------------
-Device   : Redmi Note 10 Pro Max
-Codename : sweetin
-Region   : India
-```
+> Device: **Redmi Note 10 Pro**  
+> Codename: `sweet` 
+> 
+> Device   : **Redmi Note 10 Pro Max**  
+> Codename : `sweetin`  
+> Region   : India
+>
+
+---
 
 {: .warning }
 > _I am not responsible for anything happened to your device do at your own risk!_

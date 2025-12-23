@@ -4,7 +4,7 @@ title: ROM
 nav_order: 5
 has_children: true
 ---
-# ROM  
+# <i class="bi bi-file-arrow-down"></i> ROM  
 
 **ROM** (Read-Only Memory) dalam konteks Android adalah istilah yang merujuk pada sistem operasi yang berjalan di perangkat.  
 Contohnya: MIUI, OneUI, ColorOS, dan lainnya.  

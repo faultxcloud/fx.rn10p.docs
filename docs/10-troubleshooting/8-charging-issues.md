@@ -31,6 +31,7 @@ Di beberapa device Redmi Note 10 Pro yang menggunakan Custom ROM base AOSP / non
 
     - **Kembali ke MIUI:** Menggunakan Firmware/ROM resmi MIUI biasanya menyelesaikan masalah ini, karena MIUI sudah memiliki driver yang tepat dari pabrikan.
 
+---
 ## Bagaimana Cara Mengetahui IC Charger?  
 
 Cara untuk mengetahui IC charger mana yang dimiliki perangkat kamu adalah menggunakan aplikasi **Device info HW**  

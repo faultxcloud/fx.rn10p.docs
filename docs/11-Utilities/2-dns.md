@@ -5,7 +5,7 @@ parent: Utilities
 nav_order: 2
 ---
 
-# Private DNS  
+# <i class="bi bi-globe"></i> Private DNS  
 
 
 1. CloudFlare DNS

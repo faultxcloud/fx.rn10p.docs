@@ -15,8 +15,9 @@ Namun, melakukan UBL akan menghapus semua data, jadi pastikan kamu sudah backup.
 > - Risiko bootloop jika langkah salah
 > - Beberapa aplikasi (perbankan, e-wallet, dll.) mungkin mendeteksi status bootloader terbuka.  
 
-Lanjutkan jika kamu paham konsekuensinya.
+**_Lanjutkan jika kamu sudah paham konsekuensinya._**
 
+---
 
 ## ✅ Persiapan  
 Sebelum mulai, pastikan kamu sudah:

@@ -36,9 +36,8 @@ Kumpulan Custom ROM untuk Redmi Note 10 Pro / Pro Max
 | ThePixelProject | Official | Jan | [Telegram](https://t.me/TPPSweet) | [Download](https://sourceforge.net/projects/pixel-project/files/sweet/) |
 | VoltageOS | Official | [Mr Fox](http://t.me/mrfox2003) | [Telegram](https://t.me/foxbuilds) | [Download](https://www.voltageos.com/devices/download/sweet) |
 
-
+---
 ### MIUI
-
 
 |  | Support | MIUI | Android | Download |
 | --- |:---:| :---: | :---: | --- |

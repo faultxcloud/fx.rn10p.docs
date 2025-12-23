@@ -18,27 +18,26 @@ PixelOS cocok untuk pengguna yang menginginkan:
 
 ---
 
-```
-Device   : Redmi Note 10 Pro / Pro Max
-Codename : sweet / sweetin
--------------------------------------------------------
-Maintainers     : Aryan (https://github.com/basamaryan)
-Group Support   : Telegram (https://t.me/Aryannn999)
-Support PixelOS : Paypal (https://paypal.me/whyredfire)
-```
+> Device   : **Redmi Note 10 Pro / Pro Max**  
+> Codename : `sweet / sweetin`  
+> Maintainers     : [Aryan](https://github.com/basamaryan)
+
 
 
 <span class="fs-3">
-[<img src="{{ '/assets/icons/telegram.svg' | relative_url }}" width="16" style="vertical-align:middle;"> PixelOS Group Support](https://t.me/aryanschat){: .btn }
+[<img src="" width="16" style="vertical-align:middle;"><i class="bi bi-telegram"></i> PixelOS Group Support](https://t.me/aryanschat){: .btn }
 </span>
 <span class="fs-3">
-[<img src="{{ '/assets/icons/web.png' | relative_url }}" width="16" style="vertical-align:middle;"> PixelOS Website](https://pixelos.net/download/sweet){: .btn }
+[<img src="" width="16" style="vertical-align:middle;"><i class="bi bi-globe"></i> PixelOS Website](https://pixelos.net/download/sweet){: .btn }
+</span>
+<span class="fs-3">
+[<img src="" width="16" style="vertical-align:middle;"><i class="bi bi-paypal"></i> Paypal](https://paypal.me/whyredfire){: .btn }
 </span>
 
-### Installation Guide
+### <i class="bi bi-file-earmark-text"></i> Installation Guide
 
 
-- [Read <i class="fa-solid fa-circle-down"></i>](#installation-guide-1)
+- [Read <i class="fa-solid fa-circle-down"></i>](#-installation-guide-1)
 
 
 ---
@@ -51,9 +50,8 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 |:----|:----|:----|:----|
 | PixelOS_sweet-16.0-20251130-2328.zip | 2025-11-30 | `b5668d0985baec5dd5716e9fab1cfba2` | [Download](https://sourceforge.net/projects/pixelos-releases/files/sixteen/sweet/PixelOS_sweet-16.0-20251130-2328.zip) |  
 
-
+---
 ### Android 15
-
 
 | File Name | Build | MD5 | Link |
 |:----|:----|:----|:----|
@@ -97,7 +95,7 @@ Support PixelOS : Paypal (https://paypal.me/whyredfire)
 
 ---
 
-## Installation Guide
+## <i class="bi bi-file-earmark-text"></i> Installation Guide
 
 ### Flash with Orangefox (Clean flash)
 - Download **OrangeFox Recovery R11.1_7** ``EROFSCompression`` - [Download](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip)

@@ -1,4 +1,4 @@
-title: FaultX • Docs
+title: FaultX•Docs Redmi Note 10 Pro
 description: Panduan instalasi, FAQ, dan changelog lengkap untuk Custom ROM pada perangkat Xiaomi Redmi Note 10 Pro. Dapatkan dukungan dan informasi terbaru di sini.
 # theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
@@ -17,6 +17,8 @@ aux_links:
     - "/fx.rn10p.docs/docs/99-support-me.html"
 
 favicon_ico: "/assets/favicon.ico"
+# logo: "/assets/fx-logo1.png"
+# logo_retina: "/assets/fx-logo-2x.png"
 
 callouts:
   note:

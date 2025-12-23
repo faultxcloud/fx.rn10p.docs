@@ -7,7 +7,7 @@ nav_order: 1
 
 # Install Custom Recovery di MIUI (Permanen)
 
-Pastikan komputer Anda sudah terpasang [adb-fastboot](../2-tools/1-adb-fastboot.md) (driver) dengan benar.  
+Pastikan komputer Anda sudah terpasang [adb-fastboot]({{ site.baseurl }}/docs/3-tools/1-adb-fastboot.html) (driver) dengan benar.  
 
 1. **Download**  
 [TWRP](https://dl.twrp.me/sweet/twrp-3.7.1_12-0-sweet.img) `(.img)`   

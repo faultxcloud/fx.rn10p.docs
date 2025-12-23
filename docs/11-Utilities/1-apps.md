@@ -5,7 +5,7 @@ parent: Utilities
 nav_order: 1
 ---
 
-# Apps
+# <i class="bi bi-android"></i> Apps
 
 ### Backup Apps
 
@@ -23,13 +23,14 @@ nav_order: 1
 
 - [Cromite](https://github.com/uazo/cromite) (Chromium fork based on Bromite)
 
-## File Manager
+### File Manager
 
 - [MT Manager](https://t.me/mtmanager)
 - [MiXplorer](https://www.apkmirror.com/apk/hootan-parsa/mixplorer-hootanparsa/)
 
 ### Translate
 
+- [Offline Translator](https://github.com/DavidVentura/offline-translator)
 - [Translate You](https://github.com/you-apps/TranslateYou)
 
 ### Utilites Apps
@@ -39,4 +40,5 @@ nav_order: 1
 - [Key Attestation Test](https://github.com/vvb2060/KeyAttestation)
 - [Android Native Root Detector](https://github.com/reveny/Android-Native-Root-Detector)
 - [DRM Info](https://play.google.com/store/apps/details?id=com.androidfung.drminfo)
+- [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw)
 

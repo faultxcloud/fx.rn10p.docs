@@ -5,7 +5,7 @@ nav_order: 6
 has_children: true
 ---
 
-# <img src="{{ '/assets/icons/ps-icon.svg' | relative_url }}" width="40" style="vertical-align:middle;"> GApps (Google Apps)
+# <i class="bi bi-google-play"></i> GApps (Google Apps)
 
 **GApps** adalah sekumpulan aplikasi inti (core applications) dan layanan milik Google yang biasanya tidak termasuk dalam stock (bawaan) sistem operasi *Android Open Source Project (AOSP)*.
 
@@ -17,7 +17,8 @@ Peran GApps: Untuk membuat ponsel Android yang menggunakan AOSP atau Custom ROM 
 {: .note }
 > Pastikan kamu menginstal paket GApps yang sesuai dengan versi sistem operasi Android perangkat Anda.  
 
-> Arch: `arm64`  
+---
+<i class="bi bi-cpu"></i> **arm64**  
 
 ### Android 16 <span class="label label-green">Latest</span>
 

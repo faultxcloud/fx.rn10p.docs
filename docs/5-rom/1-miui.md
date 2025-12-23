@@ -21,7 +21,7 @@ Region   : India
 
 
 {: .note }
-> Jika kamu saat ini atau sebelumnya menggunakan ROM/Custom ROM (AOSP) dan ingin menginstal MIUI 14/13/12, saya sarankan untuk melakukan hal [ini](../troubleshooting/find-device-storage-corrupt.md). Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak akan menemui pesan seperti ini: _"Find Device storage corrupt. Your device is unsafe now."_  / _“Penyimpanan perangkat rusak. Perangkat Anda sekarang tidak aman.”_
+> Jika kamu saat ini atau sebelumnya menggunakan ROM/Custom ROM (AOSP) dan ingin menginstal MIUI 14/13/12, saya sarankan untuk melakukan hal [ini]({{ site.baseurl }}/docs/10-troubleshooting/2-find-device-storage-corrupt.html). Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak akan menemui pesan seperti ini: _"Find Device storage corrupt. Your device is unsafe now."_  / _“Penyimpanan perangkat rusak. Perangkat Anda sekarang tidak aman.”_
 
 
 ## INDONESIA (ID)
@@ -38,7 +38,7 @@ Region   : India
 |12.5.5.0.RKFIDXM| INDONESIA | STABLE | 11 | Recovery `(.zip)` | 3.1 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.5.0.RKFIDXM/miui_SWEETIDGlobal_V12.5.5.0.RKFIDXM_daa6afffec_11.0.zip) | [OD](https://x3p1w-my.sharepoint.com/:u:/g/personal/faultx_x3p1w_onmicrosoft_com/EQ3jsLP5S4FDjpTU1oKWjNQBVtWW5REL83rW7EA5kyFtKg?e=RC1ijv) |
 |12.5.5.0.RKFIDXM| INDONESIA | STABLE | 11 | Fastboot `(.tgz)` | 4.8 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.5.0.RKFIDXM/sweet_id_global_images_V12.5.5.0.RKFIDXM_20220216.0000.00_11.0_global_edc381fab7.tgz) | [OD](https://x3p1w-my.sharepoint.com/:u:/g/personal/faultx_x3p1w_onmicrosoft_com/EXshDUvzQDdGs4cbEYGq8nkBW0m_q6fFNipk-2icHLLVeQ?e=kaSd5T) |
 
-
+---
 ## Global (MI)
 
 | MIUI Version | Region | Branch | Android | Type | Size | Link | Mirror |
@@ -54,6 +54,7 @@ Region   : India
 |12.5.9.0.RKFMIXM| GLOBAL | STABLE | 11.0 | Recovery `(.zip)` | 3.1 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.9.0.RKFMIXM/miui_SWEETGlobal_V12.5.9.0.RKFMIXM_9a9a09a8de_11.0.zip) | - |
 |12.5.9.0.RKFMIXM| GLOBAL | STABLE | 11.0 | Fastboot `(.tgz)` | 5.7 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.9.0.RKFMIXM/sweet_global_images_V12.5.9.0.RKFMIXM_20211203.0000.00_11.0_global_6223c27117.tgz) | - |
 
+---
 ## EUROPE (EU/EEA)
 
 | MIUI Version | Region | Branch | Android | Type | Size | Link | Mirror |
@@ -68,6 +69,7 @@ Region   : India
 |12.5.7.0.RKFEUXM| EUROPE | STABLE | 11.0 | Recovery `(.zip)` | 3.2 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.7.0.RKFEUXM/miui_SWEETEEAGlobal_V12.5.7.0.RKFEUXM_03d5ef5aec_11.0.zip) | - |
 |12.5.7.0.RKFEUXM| GLOBAL | STABLE | 11.0 | Fastboot `(.tgz)` | 5.7 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.7.0.RKFEUXM/sweet_eea_global_images_V12.5.7.0.RKFEUXM_20220105.0000.00_11.0_eea_9e9e004483.tgz) | - |
 
+---
 ## RUSSIA (RU)
 
 | MIUI Version | Region | Branch | Android | Type | Size | Link | Mirror |
@@ -82,6 +84,7 @@ Region   : India
 |12.5.7.0.RKFRUXM| RUSSIA | STABLE | 11 | Recovery `(.zip)` | 3.1 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.7.0.RKFRUXM/miui_SWEETRUGlobal_V12.5.7.0.RKFRUXM_96ddfe457c_11.0.zip) | - |
 |12.5.7.0.RKFRUXM| RUSSIA | STABLE | 11 | Fastboot `(.tgz)` | 5.2 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.7.0.RKFRUXM/sweet_ru_global_images_V12.5.7.0.RKFRUXM_20211211.0000.00_11.0_global_4b09915fbf.tgz) | - |
 
+---
 ## TURKEY (TR)
 
 | MIUI Version | Region | Branch | Android | Type | Size | Link | Mirror |
@@ -96,7 +99,7 @@ Region   : India
 |12.5.6.0.RKFTRXM| TURKEY | STABLE | 11 | Recovery `(.zip)` | 3.1 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.6.0.RKFTRXM/miui_SWEETTRGlobal_V12.5.6.0.RKFTRXM_5529828174_11.0.zip) | - |
 |12.5.6.0.RKFTRXM| TURKEY | STABLE | 11 | Fastboot `(.tgz)` | 4.7 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.6.0.RKFTRXM/sweet_tr_global_images_V12.5.6.0.RKFTRXM_20211211.0000.00_11.0_global_712cc97084.tgz) | - |
 
-
+---
 ## TAIWAN (TW)
 
 | MIUI Version | Region | Branch | Android | Type | Size | Link | Mirror |
@@ -111,6 +114,7 @@ Region   : India
 |12.5.2.0.RKFTWXM| TAIWAN | STABLE | 11 | Recovery `(.zip)` | 3.1 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.2.0.RKFTWXM/miui_SWEETTWGlobal_V12.5.2.0.RKFTWXM_63acf37ed2_11.0.zip) | - |
 |12.5.2.0.RKFTWXM| TAIWAN | STABLE | 11 | Fastboot `(.tgz)` | 4.2 GB | [Download](https://bkt-sgp-miui-ota-update-alisgp.oss-ap-southeast-1.aliyuncs.com/V12.5.2.0.RKFTWXM/sweet_tw_global_images_V12.5.2.0.RKFTWXM_20211122.0000.00_11.0_global_962af50146.tgz) | - |
 
+---
 ## INDIA (IN)  
 Redmi Note 10 Pro / Pro Max India
 

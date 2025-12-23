@@ -30,18 +30,15 @@ Kadang bisa (melalui flash firmware atau pemulihan key),
 tapi jika rusak pada hardware TEE → tidak bisa diperbaiki kecuali ganti mainboard.
 
 {: .note }
-> Untuk cek TEE bisa menggunakan aplikasi Momo: [Download]({{ site.baseurl }}/assets/apk/Momo_4.4.1.apk)
->
+> Untuk cek TEE bisa menggunakan aplikasi Momo: [Download]({{ site.baseurl }}/assets/apk/Momo_4.4.1.apk)  
 > Android Key Attestation Test App: [Download](https://github.com/vvb2060/KeyAttestation/releases/download/v1.8.4/KeyAttestation-v1.8.4.apk)
-
 
 ---
 
 # <i class="fa-solid fa-code"></i> Fix TEE Broken
 
 {: .note }
-> Private `keybox.xml` *(harap cari `keybox.xml` sendiri)*
->
+> Private `keybox.xml` *(harap cari `keybox.xml` sendiri)*  
 > Rename `keybox.xml` to `sw.xml`
 > 
 > Test: _19 Juni 2024_

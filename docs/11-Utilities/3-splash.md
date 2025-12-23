@@ -5,7 +5,7 @@ parent: Utilities
 nav_order: 3
 ---
 
-# Splash Screen  
+# <i class="bi bi-file-arrow-down"></i> Splash Screen  
 
 Merubah tampilan awal device saat baru dinyalakan, yang biasanya kalo kita menyalakan device maka akan menampilkan logo Xiaomi.  
 Nah itu bisa dimodifikasi dengan gambar kita sendiri menggunakan Splash Creator ini.  
@@ -25,7 +25,7 @@ Atau jika kamu mau yang sudah jadi, saya ada beberapa koleksi Splash Screen yang
 
 ### Cara install
 
-Sudah terinstall [Custom Recovery](../4-recovery/index.md)  
+Sudah terinstall [Custom Recovery]({{ site.baseurl }}/docs/7-custom-recovery/)  
 - Download file (`.zip`)
 - Reboot ke Recovery
 - Pilih file yang sudah kamu download tadi
