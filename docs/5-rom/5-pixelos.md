@@ -46,9 +46,9 @@ PixelOS cocok untuk pengguna yang menginginkan:
 ## Android 16 <span class="label label-green">Latest</span>
 
 
-| File Name | Build | MD5 | Link |
+| ROM | Android | Recovery | Link |
 |:----|:----|:----|:----|
-| PixelOS_sweet-16.0-20251130-2328.zip | 2025-11-30 | `b5668d0985baec5dd5716e9fab1cfba2` | [Download](https://sourceforge.net/projects/pixelos-releases/files/sixteen/sweet/PixelOS_sweet-16.0-20251130-2328.zip) |  
+| PixelOS | 16 | [Download Recovery](https://sourceforge.net/projects/pixelos-releases/files/sixteen/sweet/recovery/) | [Download ROM](https://sourceforge.net/projects/pixelos-releases/files/sixteen/sweet/) |
 
 ---
 ### Android 15
