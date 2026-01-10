@@ -46,7 +46,7 @@ Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak a
 
 1. **Download Fastboot ROM resmi**  
 Cari ROM model:  
-sweet (Global/EEA/Indonesia) →  [**Download**]({{ site.baseurl }}/docs/5-rom/MIUI/1-miui/) _(Format / Type file harus `.tgz`)_ lalu extract
+sweet (Global/EEA/Indonesia) →  [**Download**]({{ site.baseurl }}/docs/5-rom/MIUI/1-miui.html) _(Format / Type file harus `.tgz`)_ lalu extract
   
 2. **Masuk mode Fastboot**
     - Matikan HP
