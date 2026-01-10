@@ -1,14 +1,15 @@
 ---
 layout: default
-title: PixelOS
-parent: ROM
-nav_order: 5
+title: 2. PixelOS
+parent: Custom ROM
+grand_parent: ROM
+
 ---
 
 ![]({{ site.baseurl }}/assets/images/pixelos.png)
 
 # PixelOS
-PixelOS adalah custom ROM berbasis Android yang menawarkan pengalaman bersih ala Google Pixel—ringan, cepat, stabil, dan bebas bloatware. ROM ini menjadi pilihan populer untuk Redmi Note 10 Pro karena performanya yang halus, desain minimalis, serta optimasi sistem yang baik.  
+PixelOS adalah custom ROM berbasis Android yang menawarkan pengalaman bersih ala Google Pixel ringan, cepat, stabil, dan bebas bloatware. ROM ini menjadi pilihan populer untuk Redmi Note 10 Pro karena performanya yang halus, desain minimalis, serta optimasi sistem yang baik.  
 
 PixelOS cocok untuk pengguna yang menginginkan:  
 - Tampilan dan pengalaman seperti Google Pixel
@@ -45,10 +46,20 @@ PixelOS cocok untuk pengguna yang menginginkan:
 
 ## Android 16 <span class="label label-green">Latest</span>
 
+{: .note }
+> Disarankan install via PixelOS Recovery ([`sideload`](#clean-flash-coming-from-a-different-rom)). 
+>
+
+> Pastikan PixelOS Recovery (`.img`) sesuai tanggal Build ROM-nya.  
+> Contoh Build: **20260102** 
+> - PixelOS Recovery: `recovery-sweet_20260102_1012.img`  
+> - PixelOS ROM: `PixelOS_sweet-16.1-20260102-1012.zip`
 
 | ROM | Android | Recovery | Link |
 |:----|:----|:----|:----|
-| PixelOS | 16 | [Download Recovery](https://sourceforge.net/projects/pixelos-releases/files/sixteen/sweet/recovery/) | [Download ROM](https://sourceforge.net/projects/pixelos-releases/files/sixteen/sweet/) |
+| PixelOS | 16 | [PixelOS Recovery](https://sourceforge.net/projects/pixelos-releases/files/sixteen/sweet/recovery/) | [Download ROM](https://sourceforge.net/projects/pixelos-releases/files/sixteen/sweet/) |
+
+
 
 ---
 ### Android 15
@@ -102,7 +113,7 @@ PixelOS cocok untuk pengguna yang menginginkan:
 - Reboot the device to **recovery**
 - Flash **OrangeFox Recovery R11.1_7**
 - Reboot to Recovery
-- Flash [Firmware Only]({{ site.baseurl }}/docs/5-rom/2-firmware.html) (Optional)
+- Flash [Firmware Only]({{ site.baseurl }}/docs/5-rom/MIUI/2-firmware.html) (Optional)
 - Flash PixelOS ROM ``.zip``
 - Format Data **"Yes"**
 - Reboot and voila!

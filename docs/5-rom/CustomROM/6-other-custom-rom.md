@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Custom ROM
-parent: ROM
-nav_order: 3
+title: 3. Other Custom ROM
+parent: Custom ROM
+grand_parent: ROM
+
 ---
-# Custom ROMs
+
+# Other Custom ROM
 
 Kumpulan Custom ROM untuk Redmi Note 10 Pro / Pro Max   
 `codename: sweet / sweetin`

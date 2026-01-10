@@ -40,9 +40,13 @@ atau
 
 Ini adalah cara paling aman untuk relock bootloader di Redmi Note 10 Pro.
 
+{: .caution }
+> **Jika kamu saat ini atau sebelumnya menggunakan ROM/Custom ROM (AOSP) dan ingin kembali ke ROM bawaan MIUI 14/13/12, saya sarankan untuk melakukan hal** <i class="bi bi-arrow-right-circle-fill"></i> [**ini**]({{ site.baseurl }}/docs/10-troubleshooting/2-find-device-storage-corrupt.html).  
+Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak akan menemui pesan seperti ini: _"Find Device storage corrupt. Your device is unsafe now."_  / _“Penyimpanan perangkat rusak. Perangkat Anda sekarang tidak aman.”
+
 1. **Download Fastboot ROM resmi**  
 Cari ROM model:  
-sweet (Global/EEA/Indonesia) →  [**Download**]({{ site.baseurl }}/docs/5-rom/1-miui) _(Format / Type file harus `.tgz`)_ lalu extract
+sweet (Global/EEA/Indonesia) →  [**Download**]({{ site.baseurl }}/docs/5-rom/MIUI/1-miui/) _(Format / Type file harus `.tgz`)_ lalu extract
   
 2. **Masuk mode Fastboot**
     - Matikan HP

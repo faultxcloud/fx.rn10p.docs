@@ -56,4 +56,22 @@ Perubahan pada sistem seperti root, custom ROM, atau TEE yang rusak dapat membua
    Banyak proses akan menghapus data internal. Cadangkan semua data penting sebelum mulai.
 
  Panduan ini dibuat agar kamu bisa melakukan semuanya dengan aman.  
- Baca langkah-langkah dengan teliti, gunakan file yang tepat untuk *Redmi Note 10 Pro (sweet/sweetin)*, dan jangan terburu-buru.
+ Baca langkah-langkah dengan teliti, gunakan file yang tepat untuk *Redmi Note 10 Pro (sweet/sweetin)*, dan jangan terburu-buru.  
+
+ ---
+
+### Table of contents
+
+- [Device Info](/fx.rn10p.docs/2-device-info/index/)
+- [Tools](/fx.rn10p.docs/3-tools/index/)
+- [Bootloader](/fx.rn10p.docs/Docs/4-bootloader/)
+- [ROM](/fx.rn10p.docs/Docs/5-rom/)
+  - [MIUI](docs/5-rom/MIUI/index/)
+  - [Custom ROM](docs/5-rom/CustomROM/index/)
+- [GApps](/fx.rn10p.docs/Docs/6-gapps/)
+- [Custom Recovery](docs/7-custom-recovery/index/)
+- [Rooting](docs/8-rooting/index/)
+- [Flashing Guides](docs/9-flashing/index/)
+- [Troubleshooting](docs/10-troubleshooting/index/)
+- [Utilities](docs/11-Utilities/index/)
+- [Community & Resources](/fx.rn10p.docs/Docs/13-comm-resources/comm-resources.html)

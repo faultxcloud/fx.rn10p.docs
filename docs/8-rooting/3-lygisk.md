@@ -2,7 +2,7 @@
 layout: default
 title: Lygisk
 parent: Rooting
-nav_order: 2
+nav_order: 3
 ---
 # Lygisk
 

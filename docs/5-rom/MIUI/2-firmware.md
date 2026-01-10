@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Firmware
-parent: ROM
+parent: MIUI
+grand_parent: ROM
 nav_order: 2
 ---
 

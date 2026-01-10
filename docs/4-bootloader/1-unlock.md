@@ -21,13 +21,15 @@ Namun, melakukan UBL akan menghapus semua data, jadi pastikan kamu sudah backup.
 
 ## ✅ Persiapan  
 Sebelum mulai, pastikan kamu sudah:
-1. **Menggunakan akun Mi yang aktif**  
+
+1. **Sudah terinstall [ADB & Fastboot Driver]({{ site.baseurl }}/3-tools/1-adb-fastboot.html) dengan benar**
+2. **Menggunakan akun Mi yang aktif**  
 Login di HP:  
 Settings → Mi Account
-2. **Mengaktifkan mode pengembang**  
+3. **Mengaktifkan mode pengembang**  
 Settings → About phone
 Tap MIUI Version 7–10 kali hingga muncul _“You are now a developer!”_
-3. **Mengaktifkan OEM Unlocking & USB Debugging**  
+4. **Mengaktifkan OEM Unlocking & USB Debugging**  
 Masuk ke:  
 Settings → Additional settings → Developer options
 Aktifkan:
@@ -35,7 +37,7 @@ Aktifkan:
    - ✔ USB debugging
    - ✔ USB debugging (security settings) → login akun Mi
 
-4. **Menghubungkan akun Mi ke status Mi Unlock**  
+5. **Menghubungkan akun Mi ke status Mi Unlock**  
 Masuk:  
 Settings → Additional settings → Developer options → Mi Unlock status.  
 Lalu pilih:  
