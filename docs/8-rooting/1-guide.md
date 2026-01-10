@@ -27,7 +27,7 @@ nav_order: 1
 
 - Magisk App `.apk`: [Download](https://github.com/topjohnwu/Magisk/releases)
 
-- Sudah terinstall dengan benar [ADB & Fastboot]({{ site.baseurl }}/3-tools/1-adb-fastboot/) di PC/Laptop
+- Sudah terinstall dengan benar [ADB & Fastboot]({{ site.baseurl }}/3-tools/1-adb-fastboot.html) di PC/Laptop
 
 - Kabel USB
 

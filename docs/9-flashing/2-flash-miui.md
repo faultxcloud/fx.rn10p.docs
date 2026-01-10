@@ -11,7 +11,7 @@ nav_order: 2
 
 - [OrangeFox R11.1_6 MIUI](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip)
 
-- Flash [ROM OFFICIAL MIUI]({{ site.baseurl }}/docs/5-rom/MIUI/1-miui.html/) (type: RECOVERY - `.zip`)
+- Flash [ROM OFFICIAL MIUI]({{ site.baseurl }}/docs/5-rom/MIUI/1-miui.html) (type: RECOVERY - `.zip`)
 
 - Format Data ➜ **"YES"**
 
