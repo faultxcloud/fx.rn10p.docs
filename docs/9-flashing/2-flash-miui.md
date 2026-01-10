@@ -24,7 +24,7 @@ nav_order: 2
 
 1. **Download Fastboot ROM resmi**  
 Cari ROM model:  
-sweet (Global/EEA/Indonesia) →  [Download]({{ site.baseurl }}/docs/5-rom/MIUI/1-miui.html/) _(type: FASTBOOT -  `.tgz`)_ lalu extract
+sweet (Global/EEA/Indonesia) →  [Download]({{ site.baseurl }}/docs/5-rom/MIUI/1-miui.html) _(type: FASTBOOT -  `.tgz`)_ lalu extract
   
 2. **Masuk mode Fastboot**
     - Matikan HP
