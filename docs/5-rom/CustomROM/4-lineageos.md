@@ -43,7 +43,7 @@ codename : sweet
    Rename:
   - `lineage-xx.x-xxxx-nightly-sweet-signed.zip` ➜ `rom.zip`
     
-- [Latest Firmware Only]({{ site.baseurl }}/Docs/5-rom/MIUI/2-firmware.html)
+- [Latest Firmware Only]({{ site.baseurl }}/docs/5-rom/MIUI/2-firmware.html)
 
   Rename: `fw_sweet_miui_xxxxx_13.0.zip` ➜ `fw.zip`
 - Optional:
