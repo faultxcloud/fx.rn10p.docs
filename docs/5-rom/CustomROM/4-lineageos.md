@@ -55,7 +55,7 @@ codename : sweet
     Rename: `Magisk-xxxx.apk` ➜ `magisk.zip`
 
 ### Syarat
-- Pastikan [ADB & Fastboot Driver]({{ site.baseurl }}/3-tools/1-adb-fastboot/) sudah terinstall dengan benar di mesin komputer anda.
+- Pastikan [ADB & Fastboot Driver]({{ site.baseurl }}/3-tools/1-adb-fastboot.html) sudah terinstall dengan benar di mesin komputer anda.
 - Backup semua data penting, karena data akan terformat.
 - **Sign out** Mi Account, Jika anda saat ini di MIUI ROM.
 - **Sign out** semua akun Google untuk menghindari "FRP" (Factory Reset Protection).
