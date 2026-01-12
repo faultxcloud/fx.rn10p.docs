@@ -33,7 +33,7 @@ tapi jika rusak pada hardware TEE → tidak bisa diperbaiki kecuali ganti mainbo
 
 ---
 
-# <i class="fa-solid fa-code"></i> Fix TEE Broken
+## <i class="fa-solid fa-code"></i> Fix TEE Broken
 
 {: .note }
 > Private `keybox.xml` *(harap cari `keybox.xml` sendiri)*  

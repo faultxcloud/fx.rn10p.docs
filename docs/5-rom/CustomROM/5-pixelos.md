@@ -25,20 +25,20 @@ PixelOS cocok untuk pengguna yang menginginkan:
 
 
 <span class="fs-3">
-[<img src="" width="16" style="vertical-align:middle;"><i class="bi bi-telegram"></i> PixelOS Group Support](https://t.me/aryanschat){: .btn }
+[<img src="" width="16" style="vertical-align:middle;"><i class="bi bi-telegram"></i> Group Support](https://t.me/aryanschat){: .btn }
 </span>
 <span class="fs-3">
-[<img src="" width="16" style="vertical-align:middle;"><i class="bi bi-globe"></i> PixelOS Website](https://pixelos.net/download/sweet){: .btn }
+[<img src="" width="16" style="vertical-align:middle;"><i class="bi bi-globe"></i> PixelOS](https://pixelos.net/download/sweet){: .btn }
 </span>
 <span class="fs-3">
 [<img src="" width="16" style="vertical-align:middle;"><i class="bi bi-paypal"></i> Paypal](https://paypal.me/whyredfire){: .btn }
 </span>
 
+---
+
 ### <i class="bi bi-file-earmark-text"></i> Installation Guide
 
-
 - [Read <i class="fa-solid fa-circle-down"></i>](#-installation-guide-1)
-
 
 ---
 
@@ -50,7 +50,7 @@ PixelOS cocok untuk pengguna yang menginginkan:
 >
 
 > Pastikan PixelOS Recovery (`.img`) sesuai tanggal Build ROM-nya.  
-> Contoh Build: **20260102** 
+> Contoh Build: `20260102` 
 > - PixelOS Recovery: `recovery-sweet_20260102_1012.img`  
 > - PixelOS ROM: `PixelOS_sweet-16.1-20260102-1012.zip`
 

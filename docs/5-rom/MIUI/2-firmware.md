@@ -6,14 +6,11 @@ grand_parent: ROM
 nav_order: 2
 ---
 
-# Firmware Only
+## Firmware Only  
+---
 
+Redmi Note 10 Pro - `sweet`  
 `size: 80 MB±`
-
-**Redmi Note 10 Pro**
-
-`codename: sweet`
-
 
 | Region | Version | Link |
 |:-------|:--------|:-----|
@@ -22,10 +19,9 @@ nav_order: 2
 | Indonesia | ``V14.0.2.0.TKFIDXM`` | [**Download**](https://cloud03.faultx.workers.dev/0:/Firmware/Firmware%20Only%20(FW)/Indonesia%20(ID)/14.0.2/fw_sweet_miui_SWEETIDGlobal_V14.0.2.0.TKFIDXM_df828d33c5_13.0.zip?a=view)
 
 ---
-**Redmi Note 10 Pro / Pro Max (India)**
 
-`codename: sweetin`
-
+Redmi Note 10 Pro / Pro Max (India) - `sweetin`  
+`size: 80 MB±`
 
 | Region | Version | Link |
 |:----|:----|:----|
@@ -33,9 +29,9 @@ nav_order: 2
 
 ---
 
-# Firmware + Vendor
+## Firmware + Vendor
 
-Firmware + Vendor for Redmi Note 10 Pro / Pro Max  
+Redmi Note 10 Pro / Pro Max  
 `codename: sweet / sweetin`
 
 `size: 700 MB±`  
