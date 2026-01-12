@@ -20,9 +20,9 @@ Tujuan utama diciptakannya exFAT adalah untuk mengatasi keterbatasan serius pada
 
 ---
 
-# exFAT - SDcard
+# Merubah format SDCard `FAT32` ke `exFAT`
 
-Cara merubah format SDCard `FAT32` ke `exFAT` menggunakan custom recovery _OrangeFox_.
+Contoh saya menggunakan Custom Recovery _OrangeFox_.
 
 {: .warning }
 > Pastikan DATA penting kamu yang di SDCard sudah di **BACKUP!**.  
@@ -30,6 +30,7 @@ Cara merubah format SDCard `FAT32` ke `exFAT` menggunakan custom recovery _Orang
 >
 > Saya tidak bertanggung jawab atas apapun yang terjadi pada perangkat kamu, lakukan dengan risiko kamu sendiri!
 
+<!--
 <details close markdown="1">
 <summary markdown="span">📸 **Perhatikan step by step dengan teliti.**</summary>  
 
@@ -41,3 +42,13 @@ Cara merubah format SDCard `FAT32` ke `exFAT` menggunakan custom recovery _Orang
 
 ![]({{ site.baseurl }}/assets/images/exfat/4.png)  
 </details>
+-->
+
+
+![]({{ site.baseurl }}/assets/images/exfat/1.png)  
+
+![]({{ site.baseurl }}/assets/images/exfat/2.png)  
+
+![]({{ site.baseurl }}/assets/images/exfat/3.png)  
+
+![]({{ site.baseurl }}/assets/images/exfat/4.png) 
