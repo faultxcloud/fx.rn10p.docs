@@ -62,4 +62,5 @@ nav_order: 1
 - [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw)
 - [RC Spy](https://github.com/tusharonly/rcspy)
 - [Collection of Various Root Detection Apps for Android](https://github.com/rushiranpise/detection#collection-of-various-root-detection-apps-for-android) 
+- [ReVanced Manager](https://github.com/revanced/revanced-manager)
 
