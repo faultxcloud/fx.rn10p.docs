@@ -21,10 +21,17 @@ nav_order: 2
 
 ## Install Stock ROM MIUI via MiFlash
 
+{: .caution }
+> **Jika kamu saat ini atau sebelumnya menggunakan ROM/Custom ROM (AOSP) dan ingin kembali ke ROM bawaan MIUI 14/13/12, saya sarankan untuk melakukan hal** <i class="bi bi-arrow-right-circle-fill"></i> [**ini**]({{ site.baseurl }}/docs/10-troubleshooting/2-find-device-storage-corrupt.html).  
+Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak akan menemui pesan seperti ini: _"Find Device storage corrupt. Your device is unsafe now."_  `/` _“Penyimpanan perangkat rusak. Perangkat Anda sekarang tidak aman._”  
+
+{: .note }
+> Pastikan driver [adb & fastboot]({{ site.baseurl }}/3-tools/1-adb-fastboot.html) sudah terinstall dengan benar, dan juga [MiFlash]({{ site.baseurl }}/3-tools/3-xiaomi-tools.html).
 
 1. **Download Fastboot ROM resmi**  
-Cari ROM model:  
-sweet (Global/EEA/Indonesia) →  [Download]({{ site.baseurl }}/docs/5-rom/MIUI/1-miui.html) _(type: FASTBOOT -  `.tgz`)_ lalu extract
+    - Pastikan pilih type **Fastboot** `.tgz`  
+      `sweet` `Global / EEA / Indonesia` →  [Download]({{ site.baseurl }}/docs/5-rom/MIUI/1-miui.html) 
+    - Lalu Extract file `.tgz`
   
 2. **Masuk mode Fastboot**
     - Matikan HP
@@ -35,7 +42,7 @@ sweet (Global/EEA/Indonesia) →  [Download]({{ site.baseurl }}/docs/5-rom/MIUI/
     - Buka aplikasi **Xiaomi MiFlash Tool**  
     - Klik **Select** → arahkan ke folder Fastboot ROM (folder yang berisi images)  
     - Pastikan tipe flash di bawah dipilih:  
-      - **✔ clean all**  (Data akan terhapus!) 
+      - **clean all**  (Data akan terhapus, pastikan sudah backup!) 
 4. **Klik Flash**
-Tunggu proses selesai hingga:  
-`Flash done`  
+Tunggu proses selesai hingga:  <span class="label label-green">Flash done</span>
+5. **Device akan Reboot otomatis**
