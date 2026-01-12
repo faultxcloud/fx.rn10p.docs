@@ -1,7 +1,8 @@
 ---
 layout: minimal
 title: Double Tap To Lock Screen (Xiaomi & Redmi) - MIUI-ONLY
-
+parent: Utilities
+nav_exclude: true
 ---
 
 ## Double Tap To Lock Screen (Xiaomi & Redmi) • MIUI ONLY
