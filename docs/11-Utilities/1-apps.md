@@ -51,7 +51,7 @@ nav_order: 1
 
 ---
 
-### Utilites Apps
+### Other Apps
 
 - [Termux](https://f-droid.org/en/packages/com.termux/)
 - [Shizuku](https://github.com/RikkaApps/Shizuku)
