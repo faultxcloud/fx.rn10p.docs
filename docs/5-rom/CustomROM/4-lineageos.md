@@ -5,8 +5,8 @@ parent: Custom ROM
 grand_parent: ROM
 ---
 ![]({{ site.baseurl }}/assets/images/lineageos.png)
-# LineageOS
-LineageOS adalah custom ROM open‑source yang dikenal karena stabilitas, keamanan, dan kesederhanaannya. ROM ini menawarkan pengalaman Android murni (AOSP) tanpa bloatware, dengan penekanan pada privasi dan kinerja yang konsisten.  
+
+**LineageOS** adalah Custom ROM open‑source yang dikenal karena stabilitas, keamanan, dan kesederhanaannya. ROM ini menawarkan pengalaman Android murni (AOSP) tanpa bloatware, dengan penekanan pada privasi dan kinerja yang konsisten.  
 
 Untuk Redmi Note 10 Pro, LineageOS menjadi pilihan populer karena:  
 - Ringan, stabil, dan cocok untuk penggunaan harian

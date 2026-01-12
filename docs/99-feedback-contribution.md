@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Support Me
+title: Feedback & Contribution
 nav_order: 99
 ---
-
-# Feedback & Contribution
 
 Dokumentasi ini terus berkembang berdasarkan pengalaman.
 Jika kamu punya saran, ingin berkontribusi, atau bug report, kamu bisa menghubungi saya.
@@ -13,11 +11,14 @@ Jika kamu punya saran, ingin berkontribusi, atau bug report, kamu bisa menghubun
 
 ---
 
-[📩 FaultX.Repair](https://faultxcloud.github.io/faultx.link/){: .btn .btn-purple } [📢 FaultX • Redmi Note 10 Pro](https://t.me/faultx003){: .btn .btn-purple }
-
-
 ## 🎁 Support Me
 
 <script type='text/javascript' src='https://edge-cdn.trakteer.id/js/embed/trbtn.min.js?v=14-05-2025'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/FaultX/tip?open=true','https://edge-cdn.trakteer.id/images/embed/trbtn-icon.png?v=14-05-2025','40');trbtn.draw(trbtnId);})();</script>  
 
 Thank you for Support Me 😊
+
+---
+
+
+[📩 FaultX.Repair](https://faultxcloud.github.io/faultx.link/){: .btn .btn-purple } [📢 FaultX • Redmi Note 10 Pro](https://t.me/faultx003){: .btn .btn-purple }
+

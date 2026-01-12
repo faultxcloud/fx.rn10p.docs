@@ -8,8 +8,6 @@ nav_order: 1
 ![Download MIUI]({{ site.baseurl }}/assets/images/dl-miui.png)
 
 
-# MIUI Official ROM
-
 ```
 Device   : Redmi Note 10 Pro
 Codename : sweet

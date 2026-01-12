@@ -5,8 +5,6 @@ parent: Troubleshooting
 nav_order: 1
 ---
 
-# Play Integrity
-
 {: .note }
 > Root: Magisk (sejenisnya) / KernelSU (sejenisnya) / Apatch
 >

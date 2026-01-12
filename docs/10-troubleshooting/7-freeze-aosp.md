@@ -5,20 +5,27 @@ parent: Troubleshooting
 nav_order: 7
 ---
 
-# Freeze AOSP ROM
+{: .warning }
+> *I am not responsible for anything happened to your device do at your own risk!*
+>
 
 Beberapa user mengalami freeze di custom ROM base AOSP, dan solusinya adalah _Erase System Dynamic Partition_.  
 Lalu Flash ulang ROM AOSP.  
 
-{: .warning }
-> I am not responsible for anything happened to your device do at your own risk!
->
-> Saya tidak bertanggung jawab atas apapun yang terjadi pada perangkat Anda, lakukan dengan risiko Anda sendiri!  
+---
 
-- Step to Erase System Dynamic Partition
-    - Reboot to custom recovery (TWRP/Orangefox)
+{: .caution }
+> - Pastikan PC / Laptop sudah terinstall [ADB & Fastboot Driver]({{ site.baseurl }}/3-tools/1-adb-fastboot.html)
+> - Jangan lupa **Backup Data** karena akan menghapus semua data.
+> - Siapkan ROM AOSP yang akan di install.
 
-- Run this command (cmd-windows/macOS/Linux):
+- Reboot ke Custom Recovery `(TWRP / Orangefox)`
+- Pilih **Reboot** 
+- Pilih **Fastboot**
+
+- Open Terminal / CMD `(Windows / macOS/ Linux)` and Run this command:
     1. `fastboot erase vendor`
     2. `fastboot erase system`
 
+- Flash ROM AOSP
+- Done

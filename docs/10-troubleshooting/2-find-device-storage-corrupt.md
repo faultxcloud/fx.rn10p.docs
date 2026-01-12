@@ -5,8 +5,6 @@ parent: Troubleshooting
 nav_order: 2
 ---
 
-# Fix "Find Device storage corrupt. Your device is unsafe now"
-
 {: .warning }
 > Do With Your Own Risk!!
 

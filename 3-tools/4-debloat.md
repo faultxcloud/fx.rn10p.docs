@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 ### 🗑️ Apa Itu Debloat?
-D**ebloat** adalah proses menghapus atau menonaktifkan aplikasi bawaan (bloatware) yang dianggap tidak perlu oleh pengguna.  
+**Debloat** adalah proses menghapus atau menonaktifkan aplikasi bawaan (bloatware) yang dianggap tidak perlu oleh pengguna.  
 **Bloatware** biasanya berasal dari pabrikan, operator, atau aplikasi sistem yang jarang dipakai namun memakan ruang penyimpanan, RAM, dan sumber daya.  
 
 Debloat bertujuan membuat perangkat lebih ringan, lebih cepat, dan lebih hemat baterai.

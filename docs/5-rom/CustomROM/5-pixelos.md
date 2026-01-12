@@ -8,8 +8,7 @@ grand_parent: ROM
 
 ![]({{ site.baseurl }}/assets/images/pixelos.png)
 
-# PixelOS
-PixelOS adalah custom ROM berbasis Android yang menawarkan pengalaman bersih ala Google Pixel ringan, cepat, stabil, dan bebas bloatware. ROM ini menjadi pilihan populer untuk Redmi Note 10 Pro karena performanya yang halus, desain minimalis, serta optimasi sistem yang baik.  
+**PixelOS** adalah Custom ROM berbasis Android yang menawarkan pengalaman bersih ala Google Pixel ringan, cepat, stabil, dan bebas bloatware. ROM ini menjadi pilihan populer untuk Redmi Note 10 Pro karena performanya yang halus, desain minimalis, serta optimasi sistem yang baik.  
 
 PixelOS cocok untuk pengguna yang menginginkan:  
 - Tampilan dan pengalaman seperti Google Pixel

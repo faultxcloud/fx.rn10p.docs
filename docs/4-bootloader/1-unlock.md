@@ -4,7 +4,6 @@ title: Unlock Bootloader
 parent: Bootloader
 nav_order: 1
 ---
-# Unlock Bootloader
 
 **Unlock bootloader** (UBL) memungkinkan kamu memasang custom ROM, root, dan modifikasi.
 Namun, melakukan UBL akan menghapus semua data, jadi pastikan kamu sudah backup.  

@@ -6,9 +6,7 @@ grand_parent: ROM
 nav_order: 99
 ---
 
-# Engineering ROM
-
-Engineering ROM adalah perangkat lunak yang diinstal pada smartphone oleh pabrikan untuk tujuan pengujian dan verifikasi.  
+**Engineering ROM** adalah perangkat lunak yang diinstal pada smartphone oleh pabrikan untuk tujuan pengujian dan verifikasi.  
 
 Fungsinya adalah untuk memastikan bahwa perangkat keras dan perangkat lunak perangkat berfungsi dengan baik, baik selama proses produksi, perbaikan, maupun pengujian komponen yang rusak. Engineering ROM memungkinkan pengembang untuk menguji dan memperbaiki perangkat sebelum dijual atau digunakan kembali.
 

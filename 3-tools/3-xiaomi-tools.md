@@ -5,8 +5,6 @@ parent: Tools
 nav_order: 3
 ---
 
-# Xiaomi Tools
-Beberapa kumpulan Xiaomi tools
 
 ## MiFlash Tools
 

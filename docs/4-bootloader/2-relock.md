@@ -4,7 +4,7 @@ title: Relock Bootloader
 parent: Bootloader
 nav_order: 2
 ---
-# Relock Bootloader
+
 **Relock bootloader** dilakukan ketika kamu ingin mengembalikan ke kondisi pabrik, biasanya sebelum dijual atau saat ingin memulihkan keamanan perangkat.  
 
 {: .warning}

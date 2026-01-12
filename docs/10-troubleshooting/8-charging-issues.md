@@ -17,7 +17,7 @@ Di beberapa device Redmi Note 10 Pro yang menggunakan Custom ROM base AOSP / non
 
     - **`LN8000`**.  
 
-- **Ketersediaan Driver:** Isu utama terletak pada driver untuk `IC LN8000 `di Kernel Custom ROM. Driver untuk `IC LN8000` ini dilaporkan <ins>belum dirilis ke publik</ins> (atau sulit diimplementasikan) oleh Xiaomi.
+- **Ketersediaan Driver:** Isu utama terletak pada driver untuk `IC LN8000 `di Kernel Custom ROM. Driver untuk `IC LN8000` ini dilaporkan **belum dirilis ke publik** (atau sulit diimplementasikan) oleh Xiaomi.
 
 - **Dampaknya pada Custom ROM:**  
     - Custom ROM (terutama yang berbasis AOSP - _Android Open Source Project_) seringkali tidak memiliki driver yang tepat untuk `LN8000`.

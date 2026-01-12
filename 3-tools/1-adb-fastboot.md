@@ -4,7 +4,7 @@ title: ADB & Fastboot Driver
 parent: Tools
 nav_order: 1
 ---
-# Install adb & fastboot Driver
+
 
 {: .note }
 > Attention to the installation steps properly

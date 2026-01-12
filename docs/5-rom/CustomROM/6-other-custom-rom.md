@@ -6,11 +6,14 @@ grand_parent: ROM
 
 ---
 
-# Other Custom ROM
-
-Kumpulan Custom ROM untuk Redmi Note 10 Pro / Pro Max   
-`codename: sweet / sweetin`
-
+```
+Device   : Redmi Note 10 Pro
+Codename : sweet
+----------------------------------
+Device   : Redmi Note 10 Pro Max
+Codename : sweetin
+Region   : India
+```
 
 ### AOSP (Android Open Source Project)
 
