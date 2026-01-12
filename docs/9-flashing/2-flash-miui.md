@@ -21,6 +21,9 @@ nav_order: 2
 
 ## Install Stock ROM MIUI via MiFlash
 
+{: .warning}
+> Data akan terhapus, pastikan sudah backup!
+
 {: .caution }
 > **Jika kamu saat ini atau sebelumnya menggunakan ROM/Custom ROM (AOSP) dan ingin kembali ke ROM bawaan MIUI 14/13/12, saya sarankan untuk melakukan hal** <i class="bi bi-arrow-right-circle-fill"></i> [**ini**]({{ site.baseurl }}/docs/10-troubleshooting/2-find-device-storage-corrupt.html).  
 Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak akan menemui pesan seperti ini: _"Find Device storage corrupt. Your device is unsafe now."_  `/` _“Penyimpanan perangkat rusak. Perangkat Anda sekarang tidak aman._”  
@@ -38,11 +41,10 @@ Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak a
     - Tekan Volume Down + Power
     - Akan muncul logo fastboot
     
-3. Jalankan MiFlash  
+3. **Jalankan MiFlash**  
     - Buka aplikasi **Xiaomi MiFlash Tool**  
     - Klik **Select** → arahkan ke folder Fastboot ROM (folder yang berisi images)  
-    - Pastikan tipe flash di bawah dipilih:  
-      - **clean all**  (Data akan terhapus, pastikan sudah backup!) 
+    - Pastikan tipe **flash** di bawah pilih: **Clean All** = _Status Bootloader: Bootloader akan tetap dalam keadaan Terbuka (Unlocked)._
 4. **Klik Flash**
 Tunggu proses selesai hingga:  <span class="label label-green">Flash done</span>
 5. **Device akan Reboot otomatis**

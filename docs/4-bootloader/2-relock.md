@@ -56,11 +56,14 @@ sweet (Global / EEA / Indonesia) →  [**Download**]({{ site.baseurl }}/docs/5-r
 3. Jalankan MiFlash  
     - Buka aplikasi **Xiaomi MiFlash Tool**  
     - Klik **Select** → arahkan ke folder Fastboot ROM (folder yang berisi images)  
-    - Pastikan tipe flash di bawah dipilih:  
-Opsi untuk relock aman:  
-        - **✔ clean all and lock**  
-4. **Klik Flash**
-Tunggu proses selesai hingga:  
-`Flash done`  
-HP akan reboot otomatis dan status bootloader terkunci.
+    - Pastikan tipe flash di bawah pilih: **Clean All and Lock**  
+
+| Opsi | Status Bootlaoder | Kondisi Data |
+|:---|:---|:---|
+| Clean All | Tetap Terbuka (Unlocked) | Terhapus Total |
+| Save User Data | Tetap Terbuka (Unlocked) | Aman (Tidak Dihapus) |
+| **Clean All and Lock**  <img src="{{ 'assets/icons/check-green.png' | relative_url }}" width="16" style="vertical-align:middle;"> | Dikunci Kembali (Relocked) | Terhapus Total |
+
+
+Click **Flash** dan tunggu hingga proses flasing selesai <span class="label label-green">Flash done</span>, lalu device akan reboot otomatis.
 
