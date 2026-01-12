@@ -6,7 +6,7 @@ has_children: false
 nav_exclude: true
 ---
 
-###### [Utilities]({{ site.baseurl }}/docs/11-Utilities/index.html) `/` [Modules & Other Tips]({{ site.baseurl }}/docs/11-Utilities/4-modules-and-tips.html)
+###### [Utilities]({{ site.baseurl }}/docs/11-Utilities/index.html) `/` [Modules & Other Tips]({{ site.baseurl }}/docs/11-Utilities/4-modules-and-tips.html) `/` Double Tap To Lock Screen (Xiaomi & Redmi) • MIUI ONLY 
 
 ## Double Tap To Lock Screen (Xiaomi & Redmi) • MIUI ONLY
 
