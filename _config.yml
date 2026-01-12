@@ -1,7 +1,7 @@
 title: FaultX•Docs
 description: Dokumentasi Xiaomi Redmi Note 10 Pro.
-# theme: just-the-docs
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
+# remote_theme: just-the-docs/just-the-docs
 color_scheme: "light"
 
 url: https://faultxcloud.github.io
@@ -14,7 +14,7 @@ plugins:
   
 aux_links:
   "🎁 Support Me": 
-    - "/fx.rn10p.docs/docs/99-support-me.html"
+    - "/fx.rn10p.docs/docs/99-feedback-contribution.html"
 
 favicon_ico: "/assets/favicon.ico"
 # logo: "/assets/fx-logo1.png"
