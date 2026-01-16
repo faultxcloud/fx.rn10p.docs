@@ -20,8 +20,8 @@ nav_order: 1
 > _Contoh install Magisk di PixelOS (Official) **android 16**_
 
 ### Bahan
-- ROM PixelOS yang sedang dipakai  
-  Contoh saya menggunakan build (**20260102**) / `PixelOS_sweet-16.1-20260102-1012.zip`
+- ROM yang sedang dipakai  
+  Contoh: saya menggunakan ROM PixelOS build (**20260102**) / `PixelOS_sweet-16.1-20260102-1012.zip`
 
 - Magisk App `.apk`: [Download](https://github.com/topjohnwu/Magisk/releases)
 
