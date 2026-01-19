@@ -11,14 +11,14 @@ nav_exclude: true
 - Download [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&pcampaignid=web_share)
 - Buka ZArchiver
 - Cari file (contoh: PixelOS_sweet.zip)
-- Tekan & tahan file tersebut
-- Pilih Test
+- Tekan sekali file tersebut
+- Pilih **Test**
 - Tunggu proses selesai
 
 Hasilnya:
 
 ✅ Tidak corrupt
-→ Tidak ada error, proses selesai normal
+→ Tidak ada error, proses selesai normal / **Archive contains no errors**
 
 ❌ Corrupt / rusak
 → Muncul error seperti:
