@@ -8,9 +8,11 @@ nav_exclude: true
 
 ###### [Utilities]({{ site.baseurl }}/docs/11-Utilities/index.html) `/` [Modules & Other Tips]({{ site.baseurl }}/docs/11-Utilities/4-modules-and-tips.html) `/` Check File Corrupt
 
+## Check File Corrupt
+
 - Download [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&pcampaignid=web_share)
 - Buka ZArchiver
-- Cari file (contoh: PixelOS_sweet.zip)
+- Cari file (contoh: `PixelOS_sweet.zip`)
 - Tekan sekali file tersebut
 - Pilih **Test**
 - Tunggu proses selesai
