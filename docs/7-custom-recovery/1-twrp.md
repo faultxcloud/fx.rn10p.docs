@@ -5,7 +5,7 @@ parent: Custom Recovery
 nav_order: 1
 ---
 
-### <img src="{{ '/assets/icons/twrp-logo.png' | relative_url }}" width="33" style="vertical-align:middle;"> TWRP
+### <img src="{{ '/assets/icons/twrp-logo.png' | relative_url }}" width="28" style="vertical-align:middle;"> TWRP
 
 
 | Android Version | Recovery | Maintainer | Link |

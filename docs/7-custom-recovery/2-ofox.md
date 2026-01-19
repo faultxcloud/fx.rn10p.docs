@@ -5,7 +5,7 @@ parent: Custom Recovery
 nav_order: 2
 ---
 
-### <img src="{{ '/assets/icons/orangefox-logo.svg' | relative_url }}" width="33" style="vertical-align:middle;"> OrangeFox
+### <img src="{{ '/assets/icons/orangefox-logo.svg' | relative_url }}" width="28" style="vertical-align:middle;"> OrangeFox
 
 
 | Android Version | Recovery | Maintainer | Link |
