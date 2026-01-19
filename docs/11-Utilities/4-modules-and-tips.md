@@ -9,6 +9,7 @@ nav_order: 40
 - [Double tap to lock screen (Xiaomi & Redmi) - MIUI-ONLY]({{ site.baseurl }}/docs/11-Utilities/Double-tap-to-lock-screen-miui.html)
 - [ViPER4AndroidRepackaged](https://github.com/programminghoch10/ViPER4AndroidRepackaged)
 - [Check File Corrupt]({{ site.baseurl }}/docs/11-Utilities/check-file-corrupt.html)
+- [Download Mirror dari SourceForge]({{ site.baseurl }}/docs/11-Utilities/mirror-sf.html)
  
 ---
 
