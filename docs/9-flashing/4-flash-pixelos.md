@@ -71,7 +71,7 @@ File yang Harus Didownload dan simpan di laptop:
 
 5. **Format Data**
   - Saat proses install ROM sudah selesai, otomatis kembali ke menu utama recovery
-  - Pilih Factory reset ➜ Format data/factory reset ➜ Format data
+  - Pilih Factory reset ➜ Format data / factory reset ➜ Format data
   - Jika sudah selesai Format Data, kembali ke menu utama reocevery
 
 6. **Reboot**
