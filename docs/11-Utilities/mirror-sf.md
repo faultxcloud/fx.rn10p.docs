@@ -22,7 +22,7 @@ Jika kamu merasa download dari SourceForge lambat, bisa menggunakan Mirrornya de
 - Setelah halaman dimuat ulang dalam tampilan desktop, cari teks **"Problems with downloading?"** atau tombol "Mirror" yang muncul di dekat bar progres unduhan.
 - Akan muncul daftar server dari berbagai negara.
 - Pilih server yang lokasinya paling dekat dengan posisi Anda (misalnya server di Singapura atau Taiwan untuk kecepatan terbaik di Indonesia).
-- Klik nama server tersebut, dan unduhan akan segera dimulai dari lokasi baru.
+- Klik nama server tersebut, dan unduhan akan segera dimulai dari lokasi baru.  
 
 <p align="center">Preview Video Tutorial</p>
 
