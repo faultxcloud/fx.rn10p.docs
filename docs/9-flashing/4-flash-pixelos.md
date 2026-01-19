@@ -53,6 +53,12 @@ File yang Harus Didownload dan simpan di laptop:
     ```
     adb sideload firmware.zip
     ```
+    Tunggu proses install firmware berjalan, nanti akan muncul keterangan:
+
+    > *Signature verification failed*  
+    > *Install anyway?*  
+
+    Pilih: **Yes**
 
 4. **Install ROM PixelOS**
   - Di Recovery → pilih Apply update
@@ -63,7 +69,12 @@ File yang Harus Didownload dan simpan di laptop:
     ```
     Tunggu sampai 100%
 
-5. **Reboot**
+5. **Format Data**
+  - Saat proses install ROM sudah selesai, otomatis kembali ke menu utama recovery
+  - Pilih Factory reset ➜ Format data/factory reset ➜ Format data
+  - Jika sudah selesai Format Data, kembali ke menu utama reocevery
+
+6. **Reboot**
   - Pilih Reboot system now. 
   - Boot pertama 5–10 menit (sabar)
   - 🎉 PixelOS berhasil terinstall!
