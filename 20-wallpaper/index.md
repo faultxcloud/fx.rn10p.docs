@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wallpaper
-nav_order: 12
+nav_order: 20
 has_children: true
 ---
 
