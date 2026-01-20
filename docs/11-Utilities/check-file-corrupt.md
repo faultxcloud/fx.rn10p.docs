@@ -10,7 +10,7 @@ nav_exclude: true
 
 ## Check File Corrupt
 
-- Download [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&pcampaignid=web_share)
+- Download [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&pcampaignid=web_share){:target="_blank"}
 - Buka ZArchiver
 - Cari file (contoh: `PixelOS_sweet.zip`)
 - Tekan sekali file tersebut

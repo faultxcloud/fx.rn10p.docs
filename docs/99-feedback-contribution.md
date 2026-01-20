@@ -4,8 +4,10 @@ title: Feedback & Contribution
 nav_order: 99
 ---
 
+## Feedback & Contribution
+
 Dokumentasi ini terus berkembang berdasarkan pengalaman.
-Jika kamu punya saran, ingin berkontribusi, atau bug report, kamu bisa menghubungi [saya](https://t.me/Number666).
+Jika kamu punya saran, ingin berkontribusi, atau bug report, kamu bisa menghubungi [saya](https://t.me/Number666){:target="_blank"}.
 
 ❤️ Dokumentasi ini dikerjakan manual dan terus diperbarui. Jika kamu merasa dokumentasi ini membantu, kamu dapat mendukung dengan donasi agar proyek ini tetap berlanjut.
 
@@ -20,5 +22,5 @@ Thank you for Support Me 😊
 ---
 
 
-[📩 FaultX.Repair](https://faultxcloud.github.io/faultx.link/){: .btn .btn-purple } [📢 FaultX • Redmi Note 10 Pro](https://t.me/faultx003){: .btn .btn-purple }
+[📩 FaultX.Repair](https://faultxcloud.github.io/faultx.link/){:target="_blank"}{: .btn .btn-purple } [📢 FaultX • Redmi Note 10 Pro](https://t.me/faultx003){:target="_blank"}{: .btn .btn-purple }
 
