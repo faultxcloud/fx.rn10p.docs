@@ -75,6 +75,6 @@ Perubahan pada sistem seperti root, custom ROM, atau TEE yang rusak dapat membua
 - [Troubleshooting]({{ site.baseurl }}/docs/10-troubleshooting/index.html)
 - [Utilities]({{ site.baseurl }}/docs/11-Utilities/index.html)
 - [Wallpaper]({{ site.baseurl }}/docs/12-wallpaper/wallpaper.html)
-- [Archive]({{ site.baseurl }}/docs/12-archive/archive.html)
+- [Archive]({{ site.baseurl }}/docs/13-archive/archive.html)
 - [Forum]({{ site.baseurl }}/docs/14-forum/forum.html)
 - [Feedback & Contribution]({{ site.baseurl }}/docs/feedback-contribution.html)
