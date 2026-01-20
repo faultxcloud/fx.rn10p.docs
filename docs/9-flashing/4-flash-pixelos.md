@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 {: .note }
-> Untuk PixelOS android 16 di sarankan untuk menginstall menggunakan **PixelOS Recovery** dengan metode [Sideload](#install-rom-pixelos-menggunakan-sideload).  
+> Untuk PixelOS android 16 di sarankan untuk menginstall menggunakan **PixelOS Recovery** dengan metode [Sideload](#install-rom-pixelos-menggunakan-sideload---clean-flash).  
 > Pastikan akun google sudah di logout, dan sudah backup data!
 
 ### Install ROM PixelOS menggunakan **OrangeFox**  
@@ -23,8 +23,8 @@ nav_order: 4
 
 
 File yang Harus Didownload dan simpan di laptop:  
-- [PixelOS ROM]({{ site.baseurl }}/docs/5-rom/CustomROM/5-pixelos.html) (khusus Redmi Note 10 Pro / Max `(sweet / sweetin)`)  
-- Recovery PixelOS (`recovery.img`)  
+- [PixelOS ROM]({{ site.baseurl }}/docs/5-rom/CustomROM/5-pixelos.html) (khusus Redmi Note 10 Pro / Max [`sweet / sweetin`])  
+- Recovery PixelOS (`recovery-sweet_xxxxxxxx_xxxx.img`)  
 - [ADB & Fastboot Tools]({{ site.baseurl }}/3-tools/1-adb-fastboot.html)  
 - [Firmware Only]({{ site.baseurl }}/docs/5-rom/MIUI/2-firmware.html)
 
