@@ -20,7 +20,7 @@ Sebelum memulai, pastikan kamu sudah menyiapkan hal-hal berikut:
 
 ---
 
-### Langkah 1: Persiapan File
+### Langkah 1: Persiapan File  
 
 1. Ekstrak file `.zip` **OrangeFox** yang sudah kamu download di PC.
 2. Cari file bernama `recovery.img` di dalam folder ekstraksi tersebut.
