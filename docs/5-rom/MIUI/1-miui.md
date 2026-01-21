@@ -23,7 +23,7 @@ Region   : India
 Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak akan menemui pesan seperti ini: _"Find Device storage corrupt. Your device is unsafe now."_  / _“Penyimpanan perangkat rusak. Perangkat Anda sekarang tidak aman.”_
 
 
->  <i class="bi bi-file-earmark-text"></i> Installation Guide
+>  <i class="bi bi-file-earmark-text"></i> Installation Guide  
 > - [Read <i class="bi bi-arrow-right-circle"></i>]({{ site.baseurl }}/docs/9-flashing/2-flash-miui.html)
 
 ## INDONESIA (ID)
