@@ -16,7 +16,7 @@ Sebelum memulai, pastikan kamu sudah menyiapkan hal-hal berikut:
 - **PC / Laptop dan kabel <i class="bi bi-usb-symbol"></i> USB original yang sehat.**
 - **Driver ADB & Fastboot**: Terinstal di PC / Laptop [<i class="bi bi-arrow-right-circle"></i>]({{ site.baseurl }}/3-tools/1-adb-fastboot.html)
 - **File OrangeFox**: Download file OrangeFox `.zip` [<i class="bi bi-arrow-right-circle"></i>]({{ site.baseurl }}/docs/7-custom-recovery/2-ofox.html)
-- **Baterai**: Minimal <i class="bi bi-battery-full"></i> 50% untuk menghindari mati mendadak.
+- **Baterai**: Minimal <i class="bi bi-battery-half"></i> 50% untuk menghindari mati mendadak.
 
 ---
 
