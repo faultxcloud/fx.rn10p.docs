@@ -42,3 +42,21 @@ codename : sweet
 
 
 ➜ [<i class="bi bi-file-earmark-text"></i> Flasing guide]({{ site.baseurl }}/docs/9-flashing/3-flash-lineageos.html)
+
+---
+
+### <i class="bi bi-archive"></i> LineageOS Build Archive
+Arsip ROM LineageOS untuk Redmi Note 10 Pro / Pro Max (`sweet / sweetin`)
+
+<details close markdown="1">
+<summary markdown="span"><i class="fa-solid fa-key"></i> Password</summary>
+```
+fx.rn10p.docs
+```
+</details>
+
+
+
+<span class="fs-3">
+[Download](https://x3p1w-my.sharepoint.com/:f:/g/personal/faultx_x3p1w_onmicrosoft_com/EkpNau57UjhGs3P_pPHBnZUBmNXLOTUyQaP1yfRu2N3uGw?e=v72Pic){: .btn }
+</span>
