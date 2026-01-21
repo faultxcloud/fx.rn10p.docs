@@ -38,7 +38,7 @@ PixelOS cocok untuk pengguna yang menginginkan:
 
 ### <i class="bi bi-file-earmark-text"></i> Installation Guide
 
-- [Read <i class="bi bi-arrow-right-circle"></i>]({{ site.baseurl }}/docs/9-flashing/4-flash-pixelos.md.html)
+- [Read <i class="bi bi-arrow-right-circle"></i>]({{ site.baseurl }}/docs/9-flashing/4-flash-pixelos.html)
 
 ---
 
