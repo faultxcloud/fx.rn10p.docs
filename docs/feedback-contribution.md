@@ -7,7 +7,7 @@ nav_order: 99
 ## Feedback & Contribution
 
 Dokumentasi ini terus berkembang berdasarkan pengalaman.
-Jika kamu punya saran, ingin berkontribusi, atau bug report, kamu bisa menghubungi [saya](https://t.me/Number666){:target="_blank"}.
+Jika kamu punya saran, ingin berkontribusi, atau bug report, kamu bisa menghubungi [saya ](https://t.me/Number666) <i class="bi bi-telegram"></i>{:target="_blank"}.
 
 ❤️ Dokumentasi ini dikerjakan manual dan terus diperbarui. Jika kamu merasa dokumentasi ini membantu, kamu dapat mendukung dengan donasi agar proyek ini tetap berlanjut.
 
