@@ -60,7 +60,7 @@ Perubahan pada sistem seperti root, custom ROM, atau TEE yang rusak dapat membua
 
  ---
 
-### Table of contents
+### <i class="bi bi-list"></i> Table of contents
 
 - [Device Info]({{ site.baseurl }}/2-device-info/index.html)
 - [Tools]({{ site.baseurl }}/3-tools/index.html)

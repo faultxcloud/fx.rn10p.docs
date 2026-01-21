@@ -5,44 +5,57 @@ parent: Flashing
 nav_order: 1
 ---
 
-# Install Custom Recovery di MIUI (Permanen)
+## Install Custom Recovery `[OrangeFox]` di MIUI (Permanen)
 
-Pastikan komputer Anda sudah terpasang [adb-fastboot]({{ site.baseurl }}/3-tools/1-adb-fastboot.html) (driver) dengan benar.  
+{: .warning}
+> Selalu cadangkan data penting **(Backup)** karena menghindari dari hal yang tidak diinginkan.
 
-1. **Download**  
-[TWRP](https://dl.twrp.me/sweet/twrp-3.7.1_12-0-sweet.img) `(.img)`   
-[OrangeFox-MIUI](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet-MIUI.zip) `(.zip)` ➜ Simpan ke SDCard Anda  
+### Persiapan Awal
+Sebelum memulai, pastikan kamu sudah menyiapkan hal-hal berikut:  
+- **Bootloader Terbuka (Unlocked)**: Pastikan statusnya sudah Unlocked.
+- **PC / Laptop dan kabel <i class="bi bi-usb-symbol"></i> USB original yang sehat.**
+- **Driver ADB & Fastboot**: Terinstal di PC / Laptop [<i class="bi bi-arrow-right-circle"></i>]({{ site.baseurl }}/3-tools/1-adb-fastboot.html)
+- **File OrangeFox**: Download file OrangeFox `.zip` [<i class="bi bi-arrow-right-circle"></i>]({{ site.baseurl }}/docs/7-custom-recovery/2-ofox.html)
+- **Baterai**: Minimal <i class="bi bi-battery-full"></i> 50% untuk menghindari mati mendadak.
 
-2. **Matikan Device**  
-Masuk ke fastboot mode dengan menekan dan menahan tombol **Power** + **Volume Down** secara bersamaan. Tetap tahan hingga masuk ke mode fastboot, lalu lepaskan.
+---
 
-3. **Setelah berada di fastboot mode**  
-Hubungkan ponsel ke PC menggunakan kabel USB.
+### Langkah 1: Persiapan File
 
-4. **Buka CMD**  
-ketik perintah berikut:  
-    ```
-    fastboot devices
-    ```
-    Lalu tekan Enter.  
+1. Ekstrak file `.zip` **OrangeFox** yang sudah kamu download di PC.
+2. Cari file bernama `recovery.img` di dalam folder ekstraksi tersebut.
+3. Pindahkan file `recovery.img` ke dalam folder ADB & Fastboot di PC kamu.
+4. Copy juga file `.zip` OrangeFox yang utuh ke dalam MicroSD atau Penyimpanan Internal HP kamu.
 
-    Pastikan ID perangkat Anda muncul — itu berarti perangkat terdeteksi.   
-    Jika tidak terdeteksi, Anda perlu menginstal ulang driver adb-fastboot dengan benar.  
+---
 
-5. **Install TWRP**  
-Gunakan perintah:  
-`fastboot flash recovery` (drag & drop file twrp .img di sini)  
-lalu tekan Enter  
+### Langkah 2: Masuk ke Mode Fastboot
 
-    Contoh:  
-    `fastboot flash recovery twrp-3.7.1_12-0-sweet.img`  
+1. Matikan Redmi Note 10 Pro kamu.
+2. Tekan dan tahan **Tombol Power** + **Volume Bawah** secara bersamaan sampai muncul logo kelinci Mi (Fastboot).
+3. Hubungkan HP ke PC / Laptop menggunakan kabel USB.
 
-6. **Reboot**  
-Reboot device ke _Recovery Mode_ dengan menekan dan menahan tombol:  
-   - **Power** + **Volume Up**   
+---
 
-   Saat logo “MI” muncul, segera lepaskan tombol **Power**.
-7. Setelah masuk ke TWRP  
-flash file `OrangeFox (.zip)` yang sudah Anda simpan di SDCard. lalu install sampai selesai dan akan otomatis reboot ke Recovery
+### Langkah 3: Flash Recovery melalui PC
+1. Buka folder ADB di PC, tekan `Shift + Klik Kanan` di area kosong, lalu pilih **Open PowerShell window here** atau **Open Command Prompt here**.
+2. Cek apakah perangkat terdeteksi dengan mengetik: `fastboot devices` *(Jika muncul kode angka / huruf, berarti terkoneksi).*
+3. Ketik perintah berikut untuk memasang recovery: `fastboot flash recovery recovery.img`
+4. Setelah selesai (muncul tulisan Finished), jangan langsung restart. Kamu harus masuk ke recovery secara manual.
 
-8. Selesai!
+---
+
+### Langkah 4: Booting ke OrangeFox
+1. Tekan dan tahan **Tombol Power** + **Volume Atas** pada HP.
+2. Segera setelah logo MI muncul, lepas tombol Power tetapi **tetap tahan Volume Atas** sampai logo OrangeFox muncul.
+
+---
+
+### Langkah 5: Instalasi Permanen (PENTING)
+Agar OrangeFox tidak hilang (tertimpa recovery bawaan) saat HP dinyalakan, kamu harus melakukan flash file zip-nya di dalam OrangeFox:
+
+1. Di menu OrangeFox, cari file `.zip` OrangeFox yang kamu copy tadi di penyimpanan internal/MicroSD.
+2. Ketuk file tersebut, lalu **Swipe to Install**.
+3. OrangeFox akan menginstal dirinya sendiri dan otomatis melakukan *reboot* kembali ke recovery.
+4. Setelah masuk kembali ke OrangeFox, pilih menu **Reboot > System**.
+5. Done!
