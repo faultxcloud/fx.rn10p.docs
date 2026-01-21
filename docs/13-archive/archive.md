@@ -71,6 +71,24 @@ has_children: true
 
 ---
 
+### LineageOS Official by Aryan & Daniel
+
+Arsip ROM LineageOS untuk Redmi Note 10 Pro / Pro Max (`sweet / sweetin`)  
+Untuk mengaksesnya (OneDrive) masukan password dibawah ini:
+
+<details close markdown="1">
+<summary markdown="span"><i class="fa-solid fa-key"></i> Password</summary>
+```
+fx.rn10p.docs
+```
+</details>
+
+<span class="fs-3">
+[Download](https://x3p1w-my.sharepoint.com/:f:/g/personal/faultx_x3p1w_onmicrosoft_com/EkpNau57UjhGs3P_pPHBnZUBmNXLOTUyQaP1yfRu2N3uGw?e=v72Pic){: .btn }
+</span>
+
+---
+
 ### Other Archive
 
 <span class="fs-3">

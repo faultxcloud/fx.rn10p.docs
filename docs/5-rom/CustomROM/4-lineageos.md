@@ -46,17 +46,4 @@ codename : sweet
 ---
 
 ### <i class="bi bi-archive"></i> LineageOS Build Archive
-Arsip ROM LineageOS untuk Redmi Note 10 Pro / Pro Max (`sweet / sweetin`)
-
-<details close markdown="1">
-<summary markdown="span"><i class="fa-solid fa-key"></i> Password</summary>
-```
-fx.rn10p.docs
-```
-</details>
-
-
-
-<span class="fs-3">
-[Download](https://x3p1w-my.sharepoint.com/:f:/g/personal/faultx_x3p1w_onmicrosoft_com/EkpNau57UjhGs3P_pPHBnZUBmNXLOTUyQaP1yfRu2N3uGw?e=v72Pic){: .btn }
-</span>
+[Go to Archive <i class="bi bi-arrow-right-circle"></i>]({{ site.baseurl }}/docs/13-archive/archive.html#lineageos-official-by-aryan--daniel)
