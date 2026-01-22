@@ -6,6 +6,7 @@ has_children: true
 ---
 
 # <i class="bi bi-google-play"></i> GApps (Google Apps)
+---
 
 **GApps** adalah sekumpulan aplikasi inti (core applications) dan layanan milik Google yang biasanya tidak termasuk dalam stock (bawaan) sistem operasi *Android Open Source Project (AOSP)*.
 

@@ -6,6 +6,9 @@ grand_parent: ROM
 
 ---
 
+# Other Custom ROM
+---
+
 ```
 Device   : Redmi Note 10 Pro
 Codename : sweet

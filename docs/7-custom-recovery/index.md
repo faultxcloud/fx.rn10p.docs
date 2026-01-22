@@ -6,6 +6,8 @@ has_children: true
 ---
 
 # Custom Recovery
+---
+
 Pengganti recovery bawaan Android yang menawarkan fitur lebih lengkap untuk mengelola sistem. Recovery bawaan hanya dapat melakukan reset pabrik atau instal pembaruan resmi, sedangkan custom recovery memberi kontrol penuh terhadap partisi perangkat.  
 
 Beberapa contoh custom recovery populer: TWRP, OrangeFox, dan PitchBlack.  

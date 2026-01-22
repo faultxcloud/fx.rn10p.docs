@@ -5,6 +5,8 @@ parent: Flashing
 nav_order: 3
 ---
 
+# LineageOS
+---
 
 ### Install ROM LineageOS menggunakan **OrangeFox** 
 

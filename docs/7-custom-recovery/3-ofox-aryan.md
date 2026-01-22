@@ -5,7 +5,8 @@ parent: Custom Recovery
 nav_order: 3
 ---
 
-### <img src="{{ '/assets/icons/orangefox-logo.svg' | relative_url }}" width="28" style="vertical-align:middle;"> OrangeFox Unofficial by [Aryan](https://github.com/basamaryan)
+# <img src="{{ '/assets/icons/orangefox-logo.svg' | relative_url }}" width="35" style="vertical-align:middle;"> OrangeFox Unofficial by [Aryan](https://github.com/basamaryan)
+---
 
 ### [R11.1_7](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/tag/R11.1_7) <span class="label label-green">Latest</span>  
 

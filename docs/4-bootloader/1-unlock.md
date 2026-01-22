@@ -5,6 +5,9 @@ parent: Bootloader
 nav_order: 1
 ---
 
+# Unlock Bootloader
+---
+
 **Unlock bootloader** (UBL) memungkinkan kamu memasang custom ROM, root, dan modifikasi.
 Namun, melakukan UBL akan menghapus semua data, jadi pastikan kamu sudah backup.  
 
@@ -18,7 +21,7 @@ Namun, melakukan UBL akan menghapus semua data, jadi pastikan kamu sudah backup.
 
 ---
 
-## ✅ Persiapan  
+## Persiapan  
 Sebelum mulai, pastikan kamu sudah:
 
 1. **Sudah terinstall [ADB & Fastboot Driver]({{ site.baseurl }}/3-tools/1-adb-fastboot.html) dengan benar**
@@ -44,7 +47,7 @@ Lalu pilih:
 Jika berhasil akan muncul:
 _"Added successfully"_
 
-## 🖥️ Langkah di PC (Windows)
+## Langkah di PC (Windows)
 1. **Download alat UBL**  
 - [**Mi Unlock Tool**](https://en.miui.com/unlock/download_en.html) `.zip`  
 - Ekstrak → jalankan `miflash_unlock.exe`  
@@ -56,7 +59,7 @@ Di HP:
    - Muncul logo kelinci + tulisan fastboot
    - Kemudian colokkan ke PC.
 
-## 🚀 Proses Unlock
+## Proses Unlock
 1. **Login Mi Unlock Tool**  
 Gunakan akun Mi yang sama seperti di HP.
 2. **Tunggu pengecekan**  

@@ -2,7 +2,10 @@
 layout: default
 title: Modules & Other Tips
 parent: Utilities
-nav_order: 40
+nav_order: 4
+---
+
+# Modules & Other Tips
 ---
 
 - [Optimizer](https://github.com/KelvinCrag/Optimizer)

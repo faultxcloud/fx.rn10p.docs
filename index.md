@@ -4,6 +4,9 @@ layout: home
 nav_order: 1
 ---
 
+# FaultX•Docs
+---
+
 ![]({{ site.baseurl }}/assets/images/fx-sweet1.png)
 
 > Device: **Redmi Note 10 Pro**  
@@ -21,6 +24,8 @@ nav_order: 1
 >
 > Saya tidak bertanggung jawab atas apapun yang terjadi pada perangkat Anda, lakukan dengan risiko Anda sendiri!
 
+##### [Table of contents <i class="bi bi-arrow-return-left"></i>](#-table-of-contents)  
+---
 
 Beberapa panduan di sini mungkin terlihat sederhana, tetapi sebenarnya melibatkan perubahan besar pada sistem, seperti membuka kunci bootloader, memasang recovery kustom, flashing ROM, atau melakukan root.  
 

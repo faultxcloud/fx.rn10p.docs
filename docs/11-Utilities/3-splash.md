@@ -5,7 +5,8 @@ parent: Utilities
 nav_order: 3
 ---
 
-# <i class="bi bi-file-arrow-down"></i> Splash Screen  
+# <i class="bi bi-file-arrow-down"></i> Splash Screen 
+--- 
 
 Merubah tampilan awal device saat baru dinyalakan, yang biasanya kalo kita menyalakan device maka akan menampilkan logo Xiaomi.  
 Nah itu bisa dimodifikasi dengan gambar kita sendiri menggunakan Splash Creator ini.  

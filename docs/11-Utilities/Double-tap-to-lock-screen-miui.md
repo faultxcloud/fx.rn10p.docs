@@ -8,7 +8,8 @@ nav_exclude: true
 
 ###### [Utilities]({{ site.baseurl }}/docs/11-Utilities/index.html) `/` [Modules & Other Tips]({{ site.baseurl }}/docs/11-Utilities/4-modules-and-tips.html) `/` Double Tap To Lock Screen (Xiaomi & Redmi) • MIUI ONLY 
 
-## Double Tap To Lock Screen (Xiaomi & Redmi) • MIUI ONLY
+# Double Tap To Lock Screen (Xiaomi & Redmi) • MIUI ONLY
+---
 
 {: .note }
 > Hanya untuk perangkat dengan pemindai sidik jari di samping (tombol power) dan memiliki fitur kostumisasi gerakan ketuk 2x pada perangkat pemindai sidik jari

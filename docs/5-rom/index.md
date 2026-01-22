@@ -4,7 +4,9 @@ title: ROM
 nav_order: 5
 has_children: true
 ---
+
 # <i class="bi bi-file-arrow-down"></i> ROM  
+---
 
 **ROM** (Read-Only Memory) dalam konteks Android adalah istilah yang merujuk pada sistem operasi yang berjalan di perangkat.  
 Contohnya: MIUI, OneUI, ColorOS, dan lainnya.  
@@ -15,7 +17,7 @@ ROM bawaan dari pabrikan biasanya sudah berisi aplikasi, fitur, dan pengaturan d
 
 Custom ROM menawarkan pengalaman berbeda yang lebih ringan, bebas bloatware, dan dapat memiliki fitur tambahan.
 
-## ✨ Perbedaan Utama
+## Perbedaan Utama
 
 | ROM Bawaan (Stock ROM) | Custom ROM |
 |:------|:------|
@@ -24,5 +26,5 @@ Custom ROM menawarkan pengalaman berbeda yang lebih ringan, bebas bloatware, dan
 | Fokus stabilitas untuk pengguna umum | Fokus kustomisasi dan performa |
 | Jarang diperbarui setelah beberapa tahun | Update komunitas bisa lebih sering |  
 
-## 📝 Kesimpulan
+## Kesimpulan
 ROM adalah sistem operasi standar perangkat, sementara Custom ROM adalah alternatif yang dimodifikasi untuk memberikan pengalaman Android yang lebih ringan, bebas bloatware, dan dapat dikustomisasi.

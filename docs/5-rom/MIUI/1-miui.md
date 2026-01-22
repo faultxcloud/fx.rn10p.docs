@@ -5,6 +5,9 @@ parent: MIUI
 nav_order: 1
 ---
 
+# MIUI Official ROM
+---
+
 ![Download MIUI]({{ site.baseurl }}/assets/images/dl-miui.png)
 
 
@@ -24,7 +27,23 @@ Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak a
 
 
 >  <i class="bi bi-file-earmark-text"></i> Installation Guide  
-> - [Read <i class="bi bi-arrow-right-circle"></i>]({{ site.baseurl }}/docs/9-flashing/2-flash-miui.html)
+> - [Read <i class="bi bi-arrow-right-circle"></i>]({{ site.baseurl }}/docs/9-flashing/2-flash-miui.html)  
+
+### 📱 Redmi Note 10 Pro – Regional & Kode ROM  
+
+> Contoh:  
+> Regional → Indonesia (**ID**) → 14.0.2.0.TKF"**ID**"XM	
+
+| Regional | Kode ROM |
+|:---|:---:|
+| Global (International) | MI |
+| EEA (Europe) | EU |
+| Russia | RU |
+| Turkey | TR |
+| Indonesia | ID |
+| Taiwan | TW |
+| India | IN |
+
 
 ## INDONESIA (ID)
 

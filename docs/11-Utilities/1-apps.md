@@ -5,7 +5,8 @@ parent: Utilities
 nav_order: 1
 ---
 
-<!-- # <i class="bi bi-android"></i> Apps  -->
+# <i class="bi bi-android"></i> Apps  
+---
 
 ### Backup Apps
 

@@ -6,6 +6,7 @@ nav_order: 5
 ---
 
 # <i class="fa-solid fa-screwdriver-wrench"></i> Hardware issues
+---
 
 Beberapa member (sweet device) pm dan tag saya di grup [Telegram](https://t.me/RedmiNote10ProID),   
 Mendapatkan keluhan device-nya dengan gejala / *symtomp*:

@@ -8,7 +8,8 @@ nav_exclude: true
 
 ###### [Utilities]({{ site.baseurl }}/docs/11-Utilities/index.html) `/` [Modules & Other Tips]({{ site.baseurl }}/docs/11-Utilities/4-modules-and-tips.html) `/` Check File Corrupt
 
-## Check File Corrupt
+# Check File Corrupt
+---
 
 - Download [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver&pcampaignid=web_share){:target="_blank"}
 - Buka ZArchiver

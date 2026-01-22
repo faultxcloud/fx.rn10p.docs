@@ -6,8 +6,11 @@ grand_parent: ROM
 nav_order: 2
 ---
 
-## Firmware Only  
+# Firmware
 ---
+
+
+### Firmware Only  
 
 Redmi Note 10 Pro - `sweet`  
 size: 80 MB±
@@ -28,7 +31,7 @@ size: 80 MB±
 
 ---
 
-## Firmware + Vendor
+### Firmware + Vendor
 
 Redmi Note 10 Pro / Pro Max  
 `codename: sweet / sweetin`

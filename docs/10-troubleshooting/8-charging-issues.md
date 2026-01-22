@@ -6,16 +6,17 @@ nav_order: 8
 ---
 
 # <i class="fa-solid fa-plug-circle-bolt"></i> Charging issues
+---
 
 Di beberapa device Redmi Note 10 Pro yang menggunakan Custom ROM base AOSP / non-MIUI ada issues saat charging yang lambat, itu dikarenakan **Charging IC** yang digunakan, terutama jika perangkat Anda menggunakan IC pengisian daya **`LN8000`**.  
 
-### Detail Isu LN8000
+## Detail Isu LN8000
 
 - **Varian IC:** Redmi Note 10 Pro `(codename: sweet / sweetin)` dilaporkan memiliki dua jenis IC pengisian daya (Charging IC) yang berbeda yang digunakan oleh Xiaomi:
 
     - **`BQ2597x`** (atau yang serupa).
 
-    - **`LN8000`**.  
+    - **`LN8000`**  
 
 - **Ketersediaan Driver:** Isu utama terletak pada driver untuk `IC LN8000 `di Kernel Custom ROM. Driver untuk `IC LN8000` ini dilaporkan **belum dirilis ke publik** (atau sulit diimplementasikan) oleh Xiaomi.
 

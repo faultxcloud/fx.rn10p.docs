@@ -5,6 +5,9 @@ parent: Troubleshooting
 nav_order: 6
 ---
 
+# exFAT
+---
+
 **exFAT** _(Extended File Allocation Table)_ adalah sistem file yang dikembangkan oleh Microsoft khusus untuk media penyimpanan flash seperti SD Card dan USB flash drive. exFAT dirancang sebagai pengganti modern dari FAT32.
 
 Tujuan utama diciptakannya exFAT adalah untuk mengatasi keterbatasan serius pada FAT32, terutama batas ukuran file dan ukuran drive (partisi). Karena exFAT tidak memiliki batasan ukuran file 4GB, ini menjadikannya pilihan ideal untuk kartu SD besar (64GB ke atas) yang digunakan untuk menyimpan video resolusi tinggi (4K/8K).

@@ -5,6 +5,9 @@ parent: Tools
 nav_order: 4
 ---
 
+# Debloat
+---
+
 ### 🗑️ Apa Itu Debloat?
 **Debloat** adalah proses menghapus atau menonaktifkan aplikasi bawaan (bloatware) yang dianggap tidak perlu oleh pengguna.  
 **Bloatware** biasanya berasal dari pabrikan, operator, atau aplikasi sistem yang jarang dipakai namun memakan ruang penyimpanan, RAM, dan sumber daya.  

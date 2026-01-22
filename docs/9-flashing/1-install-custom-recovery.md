@@ -5,7 +5,8 @@ parent: Flashing
 nav_order: 1
 ---
 
-## Install Custom Recovery `[OrangeFox]` di MIUI (Permanen)
+# Install Custom Recovery `[OrangeFox]` di MIUI (Permanen)
+---
 
 {: .warning}
 > Selalu cadangkan data penting **(Backup)** karena menghindari dari hal yang tidak diinginkan.

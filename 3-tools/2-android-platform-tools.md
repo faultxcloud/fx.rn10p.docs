@@ -5,6 +5,8 @@ parent: Tools
 nav_order: 2
 ---
 
+# Android platform tools 
+---
 
 Bagian dari Android SDK yang berisi alat baris perintah seperti adb (Android Debug Bridge) dan fastboot untuk berinteraksi langsung dengan perangkat Android atau emulator.  
 

@@ -5,6 +5,9 @@ parent: Troubleshooting
 nav_order: 3
 ---
 
+# TEE Broken
+---
+
 ### 🔐 Apa Itu TEE Broken?
 TEE (Trusted Execution Environment) adalah bagian khusus di prosesor yang menyimpan data keamanan seperti fingerprint, Widevine, dan Play Integrity.
 TEE Broken berarti ruang keamanan ini rusak atau tidak berfungsi.

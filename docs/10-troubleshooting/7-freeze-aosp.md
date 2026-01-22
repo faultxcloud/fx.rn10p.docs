@@ -5,6 +5,9 @@ parent: Troubleshooting
 nav_order: 7
 ---
 
+# Freeze AOSP ROM
+---
+
 {: .warning }
 > *I am not responsible for anything happened to your device do at your own risk!*
 >

@@ -4,7 +4,8 @@ title: Feedback & Contribution
 nav_order: 99
 ---
 
-## Feedback & Contribution
+# Feedback & Contribution
+---
 
 Dokumentasi ini terus berkembang berdasarkan pengalaman.
 Jika kamu punya saran, ingin berkontribusi, atau bug report, kamu bisa menghubungi [saya](https://t.me/Number666){:target="_blank"} <i class="bi bi-telegram"></i>.

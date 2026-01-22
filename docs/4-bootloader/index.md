@@ -4,6 +4,7 @@ title: Bootloader
 nav_order: 4
 has_children: true
 ---
+
 # Bootloader
 
 Program awal yang dijalankan perangkat ketika dinyalakan. Fungsinya memastikan bahwa sistem operasi yang akan dijalankan aman, asli, dan belum dimodifikasi. Pada perangkat Android, bootloader berperan sebagai "penjaga gerbang" agar hanya firmware resmi dari pabrikan yang dapat berjalan.
@@ -12,7 +13,7 @@ Dengan bootloader terkunci, perangkat lebih aman karena mencegah pemasangan sist
 
 ---
 
-## Unlock Bootloader
+# Unlock Bootloader
 
 Unlock Bootloader (UBL) adalah proses membuka kunci bootloader pada perangkat Android, sehingga pengguna dapat memasang sistem atau modifikasi yang tidak resmi.
 
@@ -22,7 +23,7 @@ Dengan melakukan unlock bootloader, pengguna mendapatkan kebebasan lebih untuk m
 
 ---
 
-## Relock Bootloader
+# Relock Bootloader
 
 Proses mengunci kembali bootloader setelah sebelumnya dibuka. Biasanya dilakukan saat pengguna ingin mengembalikan perangkat ke kondisi pabrik, meningkatkan keamanan, atau ingin menjual perangkat dalam keadaan standar.
 

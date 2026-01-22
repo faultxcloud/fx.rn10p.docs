@@ -4,7 +4,9 @@ title: Lygisk
 parent: Rooting
 nav_order: 3
 ---
+
 # Lygisk
+---
 
 Versi modifikasi dari Magisk yang dibuat untuk meningkatkan kompatibilitas pada beberapa custom ROM tertentu, terutama ROM yang mengalami masalah saat menggunakan Magisk resmi. Secara fungsi, Lygisk tetap memberikan systemless root, manajemen root, dan dukungan modul seperti Magisk.  
 

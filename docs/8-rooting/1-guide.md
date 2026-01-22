@@ -5,6 +5,9 @@ parent: Rooting
 nav_order: 1
 ---
 
+# Install Magisk
+---
+
 {: .caution }
 > - Bootloader HARUS sudah unlock
 > - Root berisiko (banking app, OTA, garansi)

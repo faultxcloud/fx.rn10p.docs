@@ -4,7 +4,10 @@ title: Magisk
 parent: Rooting
 nav_order: 2
 ---
+
 # <img src="{{ '/assets/icons/magisk-logo.svg' | relative_url }}" width="48" style="vertical-align:middle;"> Magisk
+---
+
 Metode root modern untuk Android yang bersifat systemless, artinya proses root tidak mengubah partisi sistem secara langsung. Root ditempatkan di partisi boot, sehingga lebih aman dan lebih mudah disembunyikan dari aplikasi yang sensitif.  
 
 ### ✨ Kelebihan Magisk

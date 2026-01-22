@@ -8,7 +8,8 @@ nav_exclude: true
 
 ###### [Utilities]({{ site.baseurl }}/docs/11-Utilities/index.html) `/` [Modules & Other Tips]({{ site.baseurl }}/docs/11-Utilities/4-modules-and-tips.html) `/` Download Mirror dari SourceForge  
 
-## Download Mirror dari SourceForge 
+# Download Mirror dari SourceForge 
+---
 
 {: .note }
 > Jika file yang diunduh sangat besar (seperti Custom ROM), disarankan menggunakan aplikasi Download Manager seperti [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&pcampaignid=web_share), [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&pcampaignid=web_share), [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&pcampaignid=web_share) di Android.  

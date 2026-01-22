@@ -6,6 +6,7 @@ nav_order: 2
 ---
 
 # MIUI
+---
 
 ## Install Stock ROM MIUI via OrangeFox  
 

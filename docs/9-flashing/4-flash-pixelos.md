@@ -5,6 +5,9 @@ parent: Flashing
 nav_order: 4
 ---
 
+# PixelOS
+---
+
 {: .note }
 > Untuk PixelOS android 16 di sarankan untuk menginstall menggunakan **PixelOS Recovery** dengan metode [Sideload](#install-rom-pixelos-menggunakan-sideload---clean-flash).  
 > Pastikan akun google sudah di logout, dan sudah backup data!

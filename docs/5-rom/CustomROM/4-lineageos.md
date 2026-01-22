@@ -4,6 +4,10 @@ title: 1. LineageOS
 parent: Custom ROM
 grand_parent: ROM
 ---
+
+# LineageOS
+---
+
 ![]({{ site.baseurl }}/assets/images/lineageos.png)
 
 **LineageOS** adalah Custom ROM open‑source yang dikenal karena stabilitas, keamanan, dan kesederhanaannya. ROM ini menawarkan pengalaman Android murni (AOSP) tanpa bloatware, dengan penekanan pada privasi dan kinerja yang konsisten.  

@@ -5,7 +5,8 @@ nav_order: 2
 has_children: true
 ---
 
-## <i class="bi bi-info-circle"></i> Device Information
+# <i class="bi bi-info-circle"></i> Device Information
+---
 
 |  | Spesification |
 |:---|:---|

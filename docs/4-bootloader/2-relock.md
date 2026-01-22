@@ -5,18 +5,21 @@ parent: Bootloader
 nav_order: 2
 ---
 
+# Relock Bootloader
+---
+
 **Relock bootloader** dilakukan ketika kamu ingin mengembalikan ke kondisi pabrik, biasanya sebelum dijual atau saat ingin memulihkan keamanan perangkat.  
 
 {: .warning}
 > Relock hanya boleh dilakukan jika HP memakai ROM resmi (MIUI Official / Stock ROM) yang tidak dimodifikasi, non-root, dan partisi lengkap.
 Jika kamu relock saat memakai Custom ROM → 100% brick (bootloop / hardbrick).
 
-## ⚠️ Risiko Relock Bootloader
+## Risiko Relock Bootloader
 - HP akan factory reset
 - Jika ROM bukan ROM resmi → bootloop / brick
 - Semua data di storage akan dihapus
 
-## ✅ Syarat Wajib Sebelum Relock
+## Syarat Wajib Sebelum Relock
 1. **Harus memakai ROM Resmi / Stock ROM**  
 Boleh:  
 MIUI Global / EEA / Indonesia resmi
@@ -36,7 +39,7 @@ Gunakan MiFlash dengan opsi:
 atau  
 **clean all and lock** (langsung relock secara otomatis)
 
-## 🖥️ ReLock Bootloader via MiFlash
+## ReLock Bootloader via MiFlash
 
 Ini adalah cara paling aman untuk relock bootloader di Redmi Note 10 Pro.
 

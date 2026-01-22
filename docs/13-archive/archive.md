@@ -5,11 +5,28 @@ nav_order: 13
 has_children: true
 ---
 
-## <i class="bi bi-archive"></i> Archive
+# <i class="bi bi-archive"></i> Archive
+---
+
+## LineageOS Official by Aryan & Daniel
+
+Arsip ROM LineageOS untuk Redmi Note 10 Pro / Pro Max (`sweet / sweetin`)  
+Untuk mengaksesnya (OneDrive) masukan password dibawah ini:
+
+<details close markdown="1">
+<summary markdown="span"><i class="fa-solid fa-key"></i> Password</summary>
+```
+fx.rn10p.docs
+```
+</details>
+
+<span class="fs-3">
+[<i class="bi bi-cloud"></i> Go to Archive](https://x3p1w-my.sharepoint.com/:f:/g/personal/faultx_x3p1w_onmicrosoft_com/EkpNau57UjhGs3P_pPHBnZUBmNXLOTUyQaP1yfRu2N3uGw?e=v72Pic){:target="_blank"}{: .btn }
+</span>
 
 ---
 
-### ArrowOS Official
+## ArrowOS Official
 
 > Android: 11  
 > Build: 20220226  
@@ -21,7 +38,7 @@ has_children: true
 
 ---
 
-### HavocOS Official
+## HavocOS Official
 
 > Android: 11  
 > Build: 20220805  
@@ -34,7 +51,7 @@ has_children: true
 
 ---
 
-### ROM by Pulkit
+## ROM by Pulkit
 
 > Android: 13  
 > Build: 20230503  
@@ -48,7 +65,7 @@ has_children: true
 
 ---
 
-### ROM by ZIDAN44
+## ROM by ZIDAN44
 
 > Android: 11  
 > Build: 20211014
@@ -60,7 +77,7 @@ has_children: true
 
 ---
 
-### PixelOS Unofficial (Kali NetHunter)
+## PixelOS Unofficial (Kali NetHunter)
 
 > Android: 13  
 > Build: 20230924
@@ -71,25 +88,9 @@ has_children: true
 
 ---
 
-### LineageOS Official by Aryan & Daniel
 
-Arsip ROM LineageOS untuk Redmi Note 10 Pro / Pro Max (`sweet / sweetin`)  
-Untuk mengaksesnya (OneDrive) masukan password dibawah ini:
 
-<details close markdown="1">
-<summary markdown="span"><i class="fa-solid fa-key"></i> Password</summary>
-```
-fx.rn10p.docs
-```
-</details>
-
-<span class="fs-3">
-[Download](https://x3p1w-my.sharepoint.com/:f:/g/personal/faultx_x3p1w_onmicrosoft_com/EkpNau57UjhGs3P_pPHBnZUBmNXLOTUyQaP1yfRu2N3uGw?e=v72Pic){: .btn }
-</span>
-
----
-
-### Other Archive
+## Other Archive
 
 <span class="fs-3">
 [<i class="bi bi-archive"></i> FaultX Drive](https://cloud03.faultx.workers.dev/0:/){:target="_blank"}{: .btn }

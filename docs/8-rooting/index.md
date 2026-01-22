@@ -5,6 +5,8 @@ nav_order: 8
 has_children: true
 ---
 # Rooting
+---
+
 Proses membuka akses penuh (superuser) pada sistem Android sehingga pengguna dapat mengubah, memodifikasi, atau menghapus komponen sistem yang sebelumnya tidak bisa diakses.  
 
 Dengan rooting, pengguna memperoleh kontrol penuh atas perangkat—mirip seperti akses administrator di komputer.  

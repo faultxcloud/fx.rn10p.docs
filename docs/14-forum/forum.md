@@ -5,6 +5,10 @@ nav_order: 14
 has_children: true
 ---
 
+# Forums
+
+---
+
 <img src="{{ '/assets/icons/xda.svg' | relative_url }}" width="16" style="vertical-align:middle;"> [XDA Forums](https://forum.xda-developers.com/f/redmi-note-10-pro.12117/)
 
 
