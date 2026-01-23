@@ -29,9 +29,12 @@ Hasilnya:
 - `Data error`
 - `Unexpected end of archive`  
 
-<p align="center">Preview Video Tutorial</p>
+<details>
+<summary> <i class="bi bi-camera-video"></i> Preview Video Tutorial</summary>
 
-<video controls width="100%" height="auto" style="display:block; margin: 0 auto;">
+<video width="100%" controls>
   <source src="https://raw.githubusercontent.com/faultxcloud/fx.rn10p.docs/main/assets/videos/check-corrupt-files.mp4" type="video/mp4">
-  Browser Anda tidak mendukung pemutar video.
+  Browser kamu tidak mendukung tag video.
 </video>
+
+</details>

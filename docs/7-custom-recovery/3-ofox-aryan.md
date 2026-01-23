@@ -45,5 +45,5 @@ Changelog:
 ---
 
 <span class="fs-3">
-[Old version](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/){: .btn }
+[Old version](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/){:target="_blank"}{: .btn }
 </span>

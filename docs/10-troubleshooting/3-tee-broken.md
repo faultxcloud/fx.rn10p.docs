@@ -72,10 +72,10 @@ tapi jika rusak pada hardware TEE → tidak bisa diperbaiki kecuali ganti mainbo
 - Flash the Stock ROM MIUI using MiFlash (Flash all and lock)
 - Done!
 
-Thanks for [chiteroman](https://github.com/chiteroman)
+Thanks [chiteroman](https://github.com/chiteroman)
 
 <details close markdown="1">
-<summary markdown="span">📸 **Dokumentasi saat saya Fix TEE Broken**</summary>
+<summary markdown="span"><i class="bi bi-camera"></i> Dokumentasi saat saya Fix TEE Broken</summary>
    
 ![]({{ site.baseurl }}/assets/images/fix-tee/1-tee.jpeg)
 ![]({{ site.baseurl }}/assets/images/fix-tee/2-tee.jpeg)

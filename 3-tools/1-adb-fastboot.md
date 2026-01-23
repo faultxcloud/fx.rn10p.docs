@@ -15,8 +15,8 @@ nav_order: 1
 
 Download & extract:
 
-  [ADB (Windows)](https://cloud03.faultx.workers.dev/1:/ADB%20Fastboot/adb-setup-1.4.3.zip?a=view){: .btn .btn-purple }
-  [Mi Unlock Tools](https://cloud03.faultx.workers.dev/1:/Mi%20Unlock/miflash_unlock_en_7.6.727.43.zip?a=view){: .btn .btn-purple }
+  [ADB (Windows)](https://cloud03.faultx.workers.dev/1:/ADB%20Fastboot/adb-setup-1.4.3.zip?a=view){:target="_blank"}{: .btn .btn-purple }
+  [Mi Unlock Tools](https://cloud03.faultx.workers.dev/1:/Mi%20Unlock/miflash_unlock_en_7.6.727.43.zip?a=view){:target="_blank"}{: .btn .btn-purple }
 
 ![]({{ site.baseurl }}/assets/images/adb-fastboot/1.png)
 

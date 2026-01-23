@@ -35,9 +35,9 @@ Tap MIUI Version 7–10 kali hingga muncul _“You are now a developer!”_
 Masuk ke:  
 Settings → Additional settings → Developer options
 Aktifkan:
-   - ✔ OEM unlocking
-   - ✔ USB debugging
-   - ✔ USB debugging (security settings) → login akun Mi
+   - OEM unlocking
+   - USB debugging
+   - USB debugging (security settings) → login akun Mi
 
 5. **Menghubungkan akun Mi ke status Mi Unlock**  
 Masuk:  
@@ -79,7 +79,7 @@ Biasanya muncul status:
 Setelah jam tunggu selesai, ulangi langkah dan klik Unlock anyway.  
 HP akan reboot → factory reset → bootloader terbuka.  
 
-## 🎉 Konfirmasi Bootloader Sudah Terbuka
+## Konfirmasi Bootloader Sudah Terbuka
 Masuk fastboot lalu di PC jalankan:
 ```
 fastboot oem device-info

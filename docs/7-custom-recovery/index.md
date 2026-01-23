@@ -12,31 +12,18 @@ Pengganti recovery bawaan Android yang menawarkan fitur lebih lengkap untuk meng
 
 Beberapa contoh custom recovery populer: TWRP, OrangeFox, dan PitchBlack.  
 
-### ✨ Kelebihan Custom Recovery
+### Kelebihan Custom Recovery
 - Bisa instal custom ROM
 - Flash Magisk, kernel, dan mod lainnya
 - Backup & restore sistem (Nandroid backup)
 - Akses ke partisi sistem dengan lebih fleksibel
 - Wipe/format partisi secara manual
 
-### ⚠️ Kekurangan / Risiko
+### Kekurangan / Risiko
 - Perlu unlock bootloader
 - Salah operasi bisa menyebabkan bootloop
 - Tidak semua recovery stabil di setiap perangkat
 
-### 📝 Kesimpulan
+### Kesimpulan
 Custom Recovery memberikan akses lanjutan untuk instalasi ROM, mod, dan pengelolaan partisi, menjadikannya alat penting bagi pengguna yang ingin melakukan modding Android.
 
----
-
-# Custom Recovery for Redmi Note 10 Pro / Max
-
-
-```
-Device   : Redmi Note 10 Pro
-Codename : sweet
-----------------------------------
-Device   : Redmi Note 10 Pro Max
-Codename : sweetin
-Region   : India
-```

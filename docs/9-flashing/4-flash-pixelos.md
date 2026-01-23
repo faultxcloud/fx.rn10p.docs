@@ -12,7 +12,7 @@ nav_order: 4
 > Untuk PixelOS android 16 di sarankan untuk menginstall menggunakan **PixelOS Recovery** dengan metode [Sideload](#install-rom-pixelos-menggunakan-sideload---clean-flash).  
 > Pastikan akun google sudah di logout, dan sudah backup data!
 
-### Install ROM PixelOS menggunakan **OrangeFox**  
+## Install ROM PixelOS menggunakan **OrangeFox**  
 
 - [OrangeFox R11.1_7](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip) `EROFSCompression`
 - Flash [Firmware Only]({{ site.baseurl }}/docs/5-rom/MIUI/2-firmware.html) (if necessary)
@@ -22,7 +22,7 @@ nav_order: 4
 
 ---
 
-### Install ROM PixelOS menggunakan **Sideload**  / Clean Flash
+## Install ROM PixelOS menggunakan **Sideload**  / **Clean Flash**
 
 
 File yang Harus Didownload dan simpan di laptop:  

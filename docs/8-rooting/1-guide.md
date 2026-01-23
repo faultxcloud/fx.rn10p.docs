@@ -26,7 +26,7 @@ nav_order: 1
 - ROM yang sedang dipakai  
   Contoh: saya menggunakan ROM PixelOS build (**20260102**) / `PixelOS_sweet-16.1-20260102-1012.zip`
 
-- Magisk App `.apk`: [Download](https://github.com/topjohnwu/Magisk/releases)
+- Magisk App `.apk`: [Download](https://github.com/topjohnwu/Magisk/releases){:target="_blank"}
 
 - Sudah terinstall dengan benar [ADB & Fastboot]({{ site.baseurl }}/3-tools/1-adb-fastboot.html) di PC/Laptop
 

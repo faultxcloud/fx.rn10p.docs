@@ -8,7 +8,7 @@ nav_order: 3
 # LineageOS
 ---
 
-### Install ROM LineageOS menggunakan **OrangeFox** 
+## Install ROM LineageOS menggunakan **OrangeFox** 
 
 - [OrangeFox R11.1_6](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet.zip) *for ROMs like LineageOS (official) with SDcardFS deprecated and FUSE passthrough*
 - Flash [Firmware Only]({{ site.baseurl }}/docs/5-rom/MIUI/2-firmware.html) (if necessary)
@@ -19,7 +19,7 @@ nav_order: 3
 
 ---
 
-### Install LineageOS menggunakan **Sideload**
+## Install LineageOS menggunakan **Sideload**
 
 Download: [LineageOS ROM & Recovery](https://download.lineageos.org/devices/sweet/builds)
   

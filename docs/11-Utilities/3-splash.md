@@ -43,7 +43,7 @@ Jika kamu butuh **Stock MIUI Splash** atau mengembalikanya bisa kamu download da
 ---
 
 <details close markdown="1">
-  <summary markdown="span">📸 **Splash Screen**</summary>
+  <summary markdown="span"><i class="bi bi-camera"></i> Preview Splash Screen</summary>
 
 ![]({{ site.baseurl }}/assets/splash/img/splashscreen-faultx-1.jpeg)
 ![]({{ site.baseurl }}/assets/splash/img/splashscreen-faultx-2.jpeg)

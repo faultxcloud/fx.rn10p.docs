@@ -20,5 +20,5 @@ nav_order: 3
 {: .warning }
 > Unlocking the bootloader will **erase all data** on your device! Before proceeding, ensure the data you would like to retain is **backed up** to your PC or your Google account, or equivalent.
 
-[Download](https://en.miui.com/unlock/download_en.html){: .btn }{: .btn .btn-purple }
+[Download](https://en.miui.com/unlock/download_en.html){:target="_blank"}{: .btn }{: .btn .btn-purple }
 

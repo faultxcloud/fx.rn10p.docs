@@ -12,6 +12,6 @@ Bagian dari Android SDK yang berisi alat baris perintah seperti adb (Android Deb
 
 Download sesuai dengan OS PC yang kamu mau gunakan:  
 
-[<i class="fa-brands fa-microsoft"></i> Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip){: .btn .btn-purple }
-[<i class="fa-brands fa-apple"></i> macOS](https://dl.google.com/android/repository/platform-tools-latest-darwin.zip){: .btn .btn-purple }
-[<i class="fa-brands fa-linux"></i> Linux](https://dl.google.com/android/repository/platform-tools-latest-linux.zip){: .btn .btn-purple }
+[<i class="fa-brands fa-microsoft"></i> Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip){:target="_blank"}{: .btn .btn-purple }
+[<i class="fa-brands fa-apple"></i> macOS](https://dl.google.com/android/repository/platform-tools-latest-darwin.zip){:target="_blank"}{: .btn .btn-purple }
+[<i class="fa-brands fa-linux"></i> Linux](https://dl.google.com/android/repository/platform-tools-latest-linux.zip){:target="_blank"}{: .btn .btn-purple }

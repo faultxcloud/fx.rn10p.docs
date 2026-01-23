@@ -54,7 +54,7 @@ Jika dibiarkan terlalu lama biasanya berujung mati-total dan tidak bisa diservis
 
 
 <details close markdown="1">
-<summary markdown="span">📸 **Dokumentasi saat saya reballing chipset CPU**</summary>
+<summary markdown="span"><i class="bi bi-camera"></i> Dokumentasi Reballing Chipset CPU</summary>
 
 ![]({{ site.baseurl }}/assets/images/hw-issues/hw-issue-01.jpg)
 ![]({{ site.baseurl }}/assets/images/hw-issues/hw-issue-02.jpg)

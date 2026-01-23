@@ -11,7 +11,7 @@ nav_order: 1
 {: .warning}
 > Selalu cadangkan data penting **(Backup)** karena menghindari dari hal yang tidak diinginkan.
 
-### Persiapan Awal
+## Persiapan Awal
 Sebelum memulai, pastikan kamu sudah menyiapkan hal-hal berikut:  
 - **Bootloader Terbuka (Unlocked)**: Pastikan statusnya sudah Unlocked.
 - **PC / Laptop dan kabel <i class="bi bi-usb-symbol"></i> USB original yang sehat.**
@@ -21,7 +21,7 @@ Sebelum memulai, pastikan kamu sudah menyiapkan hal-hal berikut:
 
 ---
 
-### Langkah 1: Persiapan File  
+## Langkah 1: Persiapan File  
 
 1. Ekstrak file `.zip` **OrangeFox** yang sudah kamu download di PC.
 2. Cari file bernama `recovery.img` di dalam folder ekstraksi tersebut.
@@ -30,7 +30,7 @@ Sebelum memulai, pastikan kamu sudah menyiapkan hal-hal berikut:
 
 ---
 
-### Langkah 2: Masuk ke Mode Fastboot
+## Langkah 2: Masuk ke Mode Fastboot
 
 1. Matikan Redmi Note 10 Pro kamu.
 2. Tekan dan tahan **Tombol Power** + **Volume Bawah** secara bersamaan sampai muncul logo kelinci Mi (Fastboot).
@@ -38,7 +38,7 @@ Sebelum memulai, pastikan kamu sudah menyiapkan hal-hal berikut:
 
 ---
 
-### Langkah 3: Flash Recovery melalui PC
+## Langkah 3: Flash Recovery melalui PC
 1. Buka folder ADB di PC, tekan `Shift + Klik Kanan` di area kosong, lalu pilih **Open PowerShell window here** atau **Open Command Prompt here**.
 2. Cek apakah perangkat terdeteksi dengan mengetik: `fastboot devices` *(Jika muncul kode angka / huruf, berarti terkoneksi).*
 3. Ketik perintah berikut untuk memasang recovery: `fastboot flash recovery recovery.img`
@@ -46,13 +46,13 @@ Sebelum memulai, pastikan kamu sudah menyiapkan hal-hal berikut:
 
 ---
 
-### Langkah 4: Booting ke OrangeFox
+## Langkah 4: Booting ke OrangeFox
 1. Tekan dan tahan **Tombol Power** + **Volume Atas** pada HP.
 2. Segera setelah logo MI muncul, lepas tombol Power tetapi **tetap tahan Volume Atas** sampai logo OrangeFox muncul.
 
 ---
 
-### Langkah 5: Instalasi Permanen (PENTING)
+## Langkah 5: Instalasi Permanen (PENTING)
 Agar OrangeFox tidak hilang (tertimpa recovery bawaan) saat HP dinyalakan, kamu harus melakukan flash file zip-nya di dalam OrangeFox:
 
 1. Di menu OrangeFox, cari file `.zip` OrangeFox yang kamu copy tadi di penyimpanan internal/MicroSD.

@@ -29,10 +29,12 @@ Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak a
 >  <i class="bi bi-file-earmark-text"></i> Installation Guide  
 > - [Read <i class="bi bi-arrow-right-circle"></i>]({{ site.baseurl }}/docs/9-flashing/2-flash-miui.html)  
 
-### 📱 Redmi Note 10 Pro – Regional & Kode ROM  
+---
 
-> Contoh:  
-> Regional → Indonesia (**ID**) → 14.0.2.0.TKF"**ID**"XM	
+### Redmi Note 10 Pro – Regional & Kode ROM  
+
+> *Contoh:*  
+> *Regional → Indonesia (**ID**) → 14.0.2.0.TKF"**ID**"XM*	
 
 | Regional | Kode ROM |
 |:---|:---:|
@@ -44,6 +46,7 @@ Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak a
 | Taiwan | TW |
 | India | IN |
 
+---
 
 ## INDONESIA (ID)
 

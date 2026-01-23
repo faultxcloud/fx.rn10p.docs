@@ -15,32 +15,32 @@ nav_order: 1
 
 
 
-### 🔐 Apa Itu Play Integrity?
+## Apa Itu Play Integrity?
 **Play Integrity** adalah API dari Google Play Store / Google Play Services yang membantu pengembang aplikasi memverifikasi:
 Apakah aplikasi yang dijalankan adalah versi resmi dari Play Store,
 Apakah perangkatnya bersertifikasi & belum dimodifikasi (root/unlock bootloader),
 Apakah instalasi dilakukan melalui channel resmi. 
 
-### ✅ Fungsi Utama
+## Fungsi Utama
 Dengan Play Integrity, aplikasi dapat mendeteksi hal-hal seperti:
 Aplikasi yang telah dimodifikasi atau dibajak (appIntegrity)
 Perangkat yang tidak bersertifikasi atau telah di-root (deviceIntegrity)
 Instalasi yang tidak sah (accountDetails). 
 
-### ⚠️ Kenapa Ini Penting?
+## Kenapa Ini Penting?
 Banyak aplikasi — terutama perbankan, game, dan layanan digital — mengandalkan Play Integrity untuk memastikan pengalaman dan keamanan pengguna tetap terjaga.
 Jika perangkat tidak “lolos” verifikasi, maka layanan bisa dibatasi atau tidak bisa digunakan. 
 
-### 📝 Kesimpulan
+## Kesimpulan
 **Play Integrity** adalah “pengawal” keamanan Android modern yang membantu memastikan aplikasi berjalan di lingkungan yang aman dan sah.
 Bagi pengguna modding atau custom ROM, ini menjadi salah satu aspek yang sering terkena dampak (karena perangkat dianggap “tidak bersertifikasi”).
 
 
-*Source: Android Developers: [Overview of Play Integrity API](https://developer.android.com/google/play/integrity/overview), Google Play Console Help: [Use the Play Integrity API](https://support.google.com/googleplay/android-developer/answer/11395166), Wikipedia: [Play Integrity API](https://en.wikipedia.org/wiki/Play_Integrity_API)*
+*Source: - Android Developers: [Overview of Play Integrity API](https://developer.android.com/google/play/integrity/overview), Google Play Console Help: [Use the Play Integrity API](https://support.google.com/googleplay/android-developer/answer/11395166), Wikipedia: [Play Integrity API](https://en.wikipedia.org/wiki/Play_Integrity_API)*
 {: .fs-2 }
 ---
 
-## 🔐 Tutorial Cek Play Integrity
+##  Tutorial Cek Play Integrity
 
 **Google Play Store** memiliki menu **Developer options** tersembunyi yang bisa diaktifkan secara manual. Dari menu ini, kamu bisa menjalankan fitur Play Integrity → Check integrity tanpa aplikasi tambahan.
 
@@ -81,7 +81,14 @@ MEETS_STRONG_INTEGRITY
 
 Ini adalah hasil resmi langsung dari **Google Play Services**.
 
+<details close markdown="1">
+<summary markdown="span"> <i class="bi bi-camera"></i> Screenshoot</summary>
+
 ![]({{ site.baseurl }}/assets/images/playintegrity-ss.png)
+
+</details>
+
+<!-- ![]({{ site.baseurl }}/assets/images/playintegrity-ss.png) -->
 
 ---
 

@@ -31,11 +31,11 @@ Proses mengunci kembali bootloader setelah sebelumnya dibuka. Biasanya dilakukan
 
 ---
 
-### ⚠️ Keamanan & Risiko Unlock Bootloader
+### Keamanan & Risiko Unlock Bootloader
 
 Unlock bootloader memberikan fleksibilitas tinggi, namun juga membawa beberapa risiko penting yang perlu dipahami:
 
-### 1. 🔐 Keamanan Sistem Menurun
+### 1. Keamanan Sistem Menurun
 
 Bootloader yang terbuka memungkinkan pemasangan sistem tidak resmi. Ini memperbesar potensi:
 
@@ -43,11 +43,11 @@ Bootloader yang terbuka memungkinkan pemasangan sistem tidak resmi. Ini memperbe
 * Modifikasi berbahaya pada sistem
 * Aplikasi keamanan (termasuk perbankan) menolak bekerja
 
-### 2. 🧹 Factory Reset (Data Hilang)
+### 2. Factory Reset (Data Hilang)
 
 Proses unlock akan menghapus seluruh data di perangkat untuk alasan keamanan.
 
-### 3. 📱 Risiko Bootloop/Hang Saat Modifikasi
+### 3. Risiko Bootloop/Hang Saat Modifikasi
 
 Jika modifikasi (ROM, kernel, root) tidak tepat, perangkat berpotensi:
 
@@ -55,7 +55,7 @@ Jika modifikasi (ROM, kernel, root) tidak tepat, perangkat berpotensi:
 * Softbrick
 * Hardbrick
 
-### 4. 🛡️ SafetyNet & Sertifikasi Hilang
+### 4. SafetyNet & Sertifikasi Hilang
 
 Setelah UBL, beberapa fitur dapat terpengaruh:
 
@@ -63,12 +63,12 @@ Setelah UBL, beberapa fitur dapat terpengaruh:
 * Play Integrity tidak lolos
 * Aplikasi perbankan/e-wallet mendeteksi perangkat tidak aman
 
-### 5. ⚙️ Garansi Bisa Tidak Berlaku
+### 5. Garansi Bisa Tidak Berlaku
 
 Tergantung kebijakan wilayah atau distributor.
 
 ---
 
-### 📝 Kesimpulan
+### Kesimpulan
 
 Unlock bootloader memberi kebebasan penuh untuk mengatur dan memodifikasi sistem perangkat, tetapi juga membuka potensi risiko keamanan dan kestabilan. Lakukan hanya jika kamu memahami konsekuensinya dan benar-benar membutuhkannya.

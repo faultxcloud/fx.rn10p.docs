@@ -65,8 +65,9 @@ sweet (Global / EEA / Indonesia) →  [**Download**]({{ site.baseurl }}/docs/5-r
 |:---|:---|:---|
 | Clean All | Tetap Terbuka (Unlocked) | Terhapus Total |
 | Save User Data | Tetap Terbuka (Unlocked) | Aman (Tidak Dihapus) |
-| **Clean All and Lock**  <img src="{{ 'assets/icons/check-green.png' | relative_url }}" width="16" style="vertical-align:middle;"> | Dikunci Kembali (Relocked) | Terhapus Total |
+| **Clean All and Lock**  <img src="{{ 'assets/icons/check-green.png' | relative_url }}" width="16" style="vertical-align:middle;"> | **Dikunci Kembali (Relocked)** | **Terhapus Total** |
 
 
-Click **Flash** dan tunggu hingga proses flasing selesai <span class="label label-green">Flash done</span>, lalu device akan reboot otomatis.
+Click **Flash** dan tunggu hingga proses flasing selesai <span class="label label-green">Flash done</span>  
+Lalu device akan reboot otomatis.
 

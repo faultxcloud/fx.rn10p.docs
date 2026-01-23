@@ -26,9 +26,13 @@ Jika kamu merasa download dari SourceForge lambat, bisa menggunakan Mirrornya de
 - Pilih server yang lokasinya paling dekat dengan posisi Anda (misalnya server di Singapura atau Taiwan untuk kecepatan terbaik di Indonesia).
 - Klik nama server tersebut, dan unduhan akan segera dimulai dari lokasi baru.  
 
-<p align="center">Preview Video Tutorial</p>
 
-<video controls width="100%" height="auto" style="display:block; margin: 0 auto;">
+<details>
+<summary> <i class="bi bi-camera-video"></i> Preview Video Tutorial</summary>
+
+<video width="100%" controls>
   <source src="https://raw.githubusercontent.com/faultxcloud/fx.rn10p.docs/main/assets/videos/mirror-sf.mp4" type="video/mp4">
-  Browser Anda tidak mendukung pemutar video.
+  Browser kamu tidak mendukung tag video.
 </video>
+
+</details>
