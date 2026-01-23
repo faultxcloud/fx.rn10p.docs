@@ -21,7 +21,7 @@ Peran GApps: Untuk membuat ponsel Android yang menggunakan AOSP atau Custom ROM 
 ---
 <i class="bi bi-cpu"></i> **arm64**  
 
-### Android 16 <span class="label label-green">Latest</span>
+## Android 16 <span class="label label-green">Latest</span>
 
 | Name | Android 16|
 |:-----------|:-----------|

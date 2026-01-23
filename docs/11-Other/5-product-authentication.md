@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Product Authentication
-parent: Utilities
+parent: Other
 nav_order: 5
 ---
 

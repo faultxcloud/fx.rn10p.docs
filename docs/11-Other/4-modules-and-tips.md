@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modules & Other Tips
-parent: Utilities
+parent: Other
 nav_order: 4
 ---
 
@@ -9,10 +9,10 @@ nav_order: 4
 ---
 
 - [Optimizer](https://github.com/KelvinCrag/Optimizer)
-- [Double tap to lock screen (Xiaomi & Redmi) - MIUI-ONLY]({{ site.baseurl }}/docs/11-Utilities/Double-tap-to-lock-screen-miui.html)
+- [Double tap to lock screen (Xiaomi & Redmi) - MIUI-ONLY]({{ site.baseurl }}/docs/11-Other/Double-tap-to-lock-screen-miui.html)
 - [ViPER4AndroidRepackaged](https://github.com/programminghoch10/ViPER4AndroidRepackaged)
-- [Check File Corrupt]({{ site.baseurl }}/docs/11-Utilities/check-file-corrupt.html)
-- [Download Mirror dari SourceForge]({{ site.baseurl }}/docs/11-Utilities/mirror-sf.html)
+- [Check File Corrupt]({{ site.baseurl }}/docs/11-Other/check-file-corrupt.html)
+- [Download Mirror dari SourceForge]({{ site.baseurl }}/docs/11-Other/mirror-sf.html)
  
 ---
 

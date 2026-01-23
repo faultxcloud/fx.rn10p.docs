@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Private DNS
-parent: Utilities
+parent: Other
 nav_order: 2
 ---
 

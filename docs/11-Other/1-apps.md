@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Apps
-parent: Utilities
+parent: Other
 nav_order: 1
 ---
 

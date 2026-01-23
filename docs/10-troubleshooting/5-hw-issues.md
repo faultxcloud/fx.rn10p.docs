@@ -36,18 +36,18 @@ Coba kamu flash ke stock rom MIUI dahulu **via MiFlash** (`flash_all`).
 Jika masalahnya belum teratasi berarti harus ke *Solusi nomor 2 atau 3*.
 
 2. **Reballing chipset CPU**  
-Datanglah ke tempat service/repair terpercaya untuk di cek ulang.  
-Untuk biaya sangat varian (estimasi): `Rp 400,000 - Rp 1,000,000 ` dan ini tergantung lokasi.
+Datanglah ke tempat service / repair terpercaya untuk di cek ulang.  
+Untuk biaya sangat varian (estimasi): Rp 400,000 - Rp 1,000,000 dan ini tergantung lokasi.
 
 3. **Ganti Mainboard**  
 Ya, cara mudah tapi mahal ganti mainboard.  
 bisa cek harga resmi (jika masih tersedia)  
 
 
-[Cek Part](https://www.mi.co.id/id/support/spare-parts-price/?name=redmi-note-10-pro){: .btn .btn-purple }
+[<i class="bi bi-tools"></i> Cek Part](https://www.mi.co.id/id/support/spare-parts-price/?name=redmi-note-10-pro){:target="_blank"}{: .btn .btn-purple }
 
 {: .note }
-> Jika terkena beberapa issues diatas, jauh lebih baik langsung diservis.
+> Jika terkena beberapa issues diatas, jauh lebih baik langsung diservis.  
 Jika dibiarkan terlalu lama biasanya berujung mati-total dan tidak bisa diservis, kecuali ganti mainboard (mesin).
 
 ---

@@ -6,7 +6,7 @@ has_children: false
 nav_exclude: true
 ---
 
-###### [Utilities]({{ site.baseurl }}/docs/11-Utilities/index.html) `/` [Modules & Other Tips]({{ site.baseurl }}/docs/11-Utilities/4-modules-and-tips.html) `/` Double Tap To Lock Screen (Xiaomi & Redmi) • MIUI ONLY 
+###### [Other]({{ site.baseurl }}/docs/11-Other/index.html) / [Modules & Other Tips]({{ site.baseurl }}/docs/11-Other/4-modules-and-tips.html) / Double Tap To Lock Screen (Xiaomi & Redmi) • MIUI ONLY 
 
 # Double Tap To Lock Screen (Xiaomi & Redmi) • MIUI ONLY
 ---
@@ -21,7 +21,7 @@ Secara default mungkin pada pengaturan ketuk 2x pada sidik jari tidak menyediaka
 `su -c settings put system fingerprint_double_tap go_to_sleep`
 
 - **Non-Root Device:** Membutuhkan bantuan aplikasi [SetEdit](https://play.google.com/store/apps/details?id=by4a.setedit22&pcampaignid=web_share) (untuk memudahkan), di tab system pada key `fingerprint_double_tap` masukkan `value go_to_sleep`  untuk mengaktikannya.  
-![]({{ site.baseurl }}/docs/11-Utilities/img/ss.jpg)
+![]({{ site.baseurl }}/docs/11-Other/img/ss.jpg)
 
 
 [source](https://t.me/miatoz/217)

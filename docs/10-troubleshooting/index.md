@@ -5,6 +5,6 @@ nav_order: 10
 has_children: true
 ---
 
-# Troubleshooting
+# <i class="bi bi-tools"></i> Troubleshooting
 
 

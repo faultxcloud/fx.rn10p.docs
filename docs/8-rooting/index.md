@@ -4,7 +4,7 @@ title: Rooting
 nav_order: 8
 has_children: true
 ---
-# Rooting
+# <i class="bi bi-hash"></i> Rooting
 ---
 
 Proses membuka akses penuh (superuser) pada sistem Android sehingga pengguna dapat mengubah, memodifikasi, atau menghapus komponen sistem yang sebelumnya tidak bisa diakses.  

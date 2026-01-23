@@ -5,4 +5,4 @@ nav_order: 12
 has_children: true
 ---
 
-# <i class="fa-regular fa-image"></i> Wallpaper
+# <i class="bi bi-file-image"></i> Wallpaper

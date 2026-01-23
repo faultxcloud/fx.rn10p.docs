@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Splash Screen
-parent: Utilities
+parent: Other
 nav_order: 3
 ---
 

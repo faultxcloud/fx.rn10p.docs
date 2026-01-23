@@ -24,7 +24,7 @@ Tujuan utama diciptakannya exFAT adalah untuk mengatasi keterbatasan serius pada
 
 # Merubah format SDCard `FAT32` ke `exFAT`
 
-*Contoh saya menggunakan Custom Recovery _OrangeFox_.*
+> *Contoh saya menggunakan Custom Recovery **OrangeFox***
 
 {: .warning }
 > Pastikan DATA penting kamu yang di SDCard sudah di **BACKUP!**.  

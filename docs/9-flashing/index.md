@@ -4,4 +4,4 @@ title: Flashing
 nav_order: 9
 has_children: true
 ---
-# Flashing
+# <i class="bi bi-arrow-repeat"></i> Flashing

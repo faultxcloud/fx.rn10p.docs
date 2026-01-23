@@ -6,7 +6,7 @@ has_children: false
 nav_exclude: true
 ---
 
-###### [Utilities]({{ site.baseurl }}/docs/11-Utilities/index.html) `/` [Modules & Other Tips]({{ site.baseurl }}/docs/11-Utilities/4-modules-and-tips.html) `/` Check File Corrupt
+###### [Other]({{ site.baseurl }}/docs/11-Other/index.html) / [Modules & Other Tips]({{ site.baseurl }}/docs/11-Other/4-modules-and-tips.html) / Check File Corrupt
 
 # Check File Corrupt
 ---
@@ -30,7 +30,7 @@ Hasilnya:
 - `Unexpected end of archive`  
 
 <details>
-<summary> <i class="bi bi-camera-video"></i> Preview Video Tutorial</summary>
+<summary> <i class="bi bi-film"></i> Preview Video Tutorial</summary>
 
 <video width="100%" controls>
   <source src="https://raw.githubusercontent.com/faultxcloud/fx.rn10p.docs/main/assets/videos/check-corrupt-files.mp4" type="video/mp4">

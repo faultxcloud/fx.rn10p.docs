@@ -5,7 +5,7 @@ nav_order: 14
 has_children: true
 ---
 
-# Forums
+# <i class="bi bi-chat-square-text"></i> Forums
 
 ---
 
