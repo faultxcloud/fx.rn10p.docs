@@ -79,7 +79,7 @@ Teliti dan pahami step berikut:
      Tunggu sampai proses install recovery selesai dengan tulisan **"Done"**.
   5. Reboot device ke Recovery Mode
      Tekan dan tahan tombol **`Power` + `Volume Atas`**. Saat Logo "MI" muncul langsung lepaskan tombol **`Power`**.
-     ![]({{ site.baseurl }}/assets/images/install-los-pict/los-recovery.png)
+     ![]({{ site.baseurl }}/assets/images/install-los-pict/los-recovery.jpeg)
 
   6. Pilih **`Apply update`** ➜ **`Apply from ADB`**
   7. Cek untuk memastikan ADB Sideload terdeteksi di komputer:
