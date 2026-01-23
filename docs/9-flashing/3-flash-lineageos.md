@@ -105,7 +105,7 @@ Teliti dan pahami step berikut:
      ```
      Pilih: ➜ **YES**
 
-     ![]({{ site.baseurl }}/assets/images/install-los-pict/verifiaction-los.png)
+     ![]({{ site.baseurl }}/assets/images/install-los-pict/verifiaction-los.jpeg)
 
      Proses akan dilanjutkan kembali, dan jika sudah selesai proses install firmware otomatis akan kembali ke menu utama recovery.
 9. Pilih **`Advanced`** ➜ **`Reboot to recovery`**.
