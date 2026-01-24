@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# FaultX•Docs
+# Redmi Note 10 Pro / Max
 ---
 
 ![]({{ site.baseurl }}/assets/images/fx-sweet1.png)
