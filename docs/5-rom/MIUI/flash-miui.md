@@ -1,8 +1,7 @@
 ---
 layout: default
-title: MIUI ROM
-parent: Flashing
-nav_order: 2
+title: Installation Guide
+parent: MIUI
 ---
 
 # MIUI

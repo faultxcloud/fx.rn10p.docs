@@ -1,14 +1,22 @@
 ---
 layout: default
-title: LineageOS
-parent: Flashing
-nav_order: 3
+title: 	Install LineageOS
+parent: Custom ROM
 ---
 
-# LineageOS
+# Install LineageOS
 ---
 
-## Install ROM LineageOS menggunakan **OrangeFox** 
+{: .warning}
+> **Backup Data** karena proses ini akan menghapus (Format) semua data yang ada di HP kamu.
+
+{: .note }
+> Untuk **LineageOS 23 (android 16)** di sarankan untuk menginstall menggunakan **LineageOS Recovery** dengan metode [Sideload](#melalui-adb-sideload).  
+
+---
+
+
+## Melalui OrangeFox 
 
 - [OrangeFox R11.1_6](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_6/OrangeFox-R11.1_6-Unofficial-sweet.zip) *for ROMs like LineageOS (official) with SDcardFS deprecated and FUSE passthrough*
 - Flash [Firmware Only]({{ site.baseurl }}/docs/5-rom/MIUI/2-firmware.html) (if necessary)
@@ -19,31 +27,33 @@ nav_order: 3
 
 ---
 
-## Install LineageOS menggunakan **Sideload**
+## Melalui adb Sideload
 
-Download: [LineageOS ROM & Recovery](https://download.lineageos.org/devices/sweet/builds)
+{: .note }
+> - Pastikan [**ADB & Fastboot Driver**]({{ site.baseurl }}/3-tools/1-adb-fastboot.html) sudah terinstall dengan benar di mesin komputer anda.
+> - **Backup** semua data penting, karena data akan terformat.
+> - **Sign out** Mi Account, Jika anda saat ini di MIUI ROM.
+> - **Sign out** semua akun Google untuk menghindari **FRP** (Factory Reset Protection).
+
+File yang harus di siapkan dan di rename agar mempermudah saat install  
+
+- **ROM**  
+  Download: [LineageOS ROM & Recovery](https://download.lineageos.org/devices/sweet/builds){:target="_blank"}  
+  Rename ROM: `lineage-xx.x-xxxx-nightly-sweet-signed.zip` ➜ `rom.zip`  
   
 ![]({{ site.baseurl }}/assets/images/install-los-pict/los-download.png)
     
-   Rename:
-  - `lineage-xx.x-xxxx-nightly-sweet-signed.zip` ➜ `rom.zip`
-    
-- [Latest Firmware Only]({{ site.baseurl }}/docs/5-rom/MIUI/2-firmware.html)
-
+- [**Latest MIUI 14 Firmware "Only"**]({{ site.baseurl }}/docs/5-rom/MIUI/2-firmware.html)  
   Rename: `fw_sweet_miui_xxxxx_13.0.zip` ➜ `fw.zip`
-- Optional:
-  - [MindTheGApps]({{ site.baseurl }}/docs/6-gapps/index.html)
 
+- **Optional**  
+  > Jika kamu tidak mau install GApps / tidak mau di root lewati ini
+  - GApps: [MindTheGApps]({{ site.baseurl }}/docs/6-gapps/index.html)  
     Rename: `MindTheGapps-15.0.0-arm64-xxxxx.zip` ➜ `gapps.zip`
-  - [Magisk](https://github.com/topjohnwu/Magisk/releases)
 
-    Rename: `Magisk-xxxx.apk` ➜ `magisk.zip`
+  - [Magisk](https://github.com/topjohnwu/Magisk/releases){:target="_blank"}  
+    Rename: `Magisk-xxxx.apk` ➜ `magisk.zip`  
 
-### Syarat
-- Pastikan [ADB & Fastboot Driver]({{ site.baseurl }}/3-tools/1-adb-fastboot.html) sudah terinstall dengan benar di mesin komputer anda.
-- Backup semua data penting, karena data akan terformat.
-- **Sign out** Mi Account, Jika anda saat ini di MIUI ROM.
-- **Sign out** semua akun Google untuk menghindari "FRP" (Factory Reset Protection).
 
 ## Sebelum memulai Flash LineageOS
 

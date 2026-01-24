@@ -45,7 +45,7 @@ codename : sweet
 ![]({{ site.baseurl }}/assets/images/install-los-pict/los-download.png)
 
 
-➜ [<i class="bi bi-file-earmark-text"></i> Flasing guide]({{ site.baseurl }}/docs/9-flashing/3-flash-lineageos.html)
+➜ [<i class="bi bi-file-earmark-text"></i> Flasing guide]({{ site.baseurl }}/docs/5-rom/CustomROM/flash-lineageos.html)
 
 ---
 

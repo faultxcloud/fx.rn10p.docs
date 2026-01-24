@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Install Custom Recovery
-parent: Flashing
-nav_order: 1
+parent: Custom Recovery
+# nav_order: 1
 ---
 
 # Install Custom Recovery `[OrangeFox]` di MIUI (Permanen)

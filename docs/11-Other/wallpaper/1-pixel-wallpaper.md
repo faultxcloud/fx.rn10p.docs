@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Google Pixel
+title: Google Pixel Wallpper
 parent: Wallpaper
 nav_order: 1
 ---

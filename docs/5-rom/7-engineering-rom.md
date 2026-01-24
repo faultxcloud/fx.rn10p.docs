@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Engineering ROM
-parent: MIUI
-grand_parent: ROM
-nav_order: 99
+parent: ROM
 ---
 
 # Engineering ROM

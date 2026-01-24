@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LineageOS
+title: LineageOS Wallpaper
 parent: Wallpaper
 nav_order: 2
 ---

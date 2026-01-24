@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Archive
-nav_order: 13
-has_children: true
+parent: ROM
 ---
 
-# <i class="bi bi-archive"></i> Archive
+# <i class="bi bi-archive"></i> Archive ROM
 ---
 
 ## LineageOS Official by Aryan & Daniel

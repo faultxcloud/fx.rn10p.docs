@@ -1,28 +1,32 @@
 ---
 layout: default
-title: PixelOS
-parent: Flashing
-nav_order: 4
+title: Install PixelOS
+parent: Custom ROM
 ---
 
-# PixelOS
+# Install PixelOS
 ---
+
+
+{: .warning}
+> **Backup Data** karena proses ini akan menghapus (Format) semua data yang ada di HP kamu.
 
 {: .note }
-> Untuk PixelOS android 16 di sarankan untuk menginstall menggunakan **PixelOS Recovery** dengan metode [Sideload](#install-rom-pixelos-menggunakan-sideload---clean-flash).  
-> Pastikan akun google sudah di logout, dan sudah backup data!
+> Untuk **PixelOS android 16** di sarankan untuk menginstall menggunakan **PixelOS Recovery** dengan metode [Sideload](#melalui-adb-sideload).  
 
-## Install ROM PixelOS menggunakan **OrangeFox**  
+---
+
+## Melalui OrangeFox  
 
 - [OrangeFox R11.1_7](https://github.com/basamaryan/android_device_xiaomi_sweet-TWRP/releases/download/R11.1_7/OrangeFox-R11.1_7-Unofficial-sweet-EROFSCompression.zip) `EROFSCompression`
-- Flash [Firmware Only]({{ site.baseurl }}/docs/5-rom/MIUI/2-firmware.html) (if necessary)
+- Flash [Firmware Only]({{ site.baseurl }}/docs/5-rom/MIUI/2-firmware.html)
 - Flash [PixelOS ROM]({{ site.baseurl }}/docs/5-rom/CustomROM/5-pixelos.html)
 - Format Data ➜ "YES"
 - Reboot System
 
 ---
 
-## Install ROM PixelOS menggunakan **Sideload**  / **Clean Flash**
+## Melalui adb Sideload
 
 
 File yang Harus Didownload dan simpan di laptop:  
@@ -84,7 +88,7 @@ File yang Harus Didownload dan simpan di laptop:
 
 ---
 
-### Dirty Flash / Update
+## Dirty Flash / Update
 
 {: .note }
 > Tidak akan ada kehilangan data jika semuanya berjalan lancar. Buatlah cadangan data sebagai langkah pencegahan jika terjadi hal yang tidak diinginkan.  

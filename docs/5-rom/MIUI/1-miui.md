@@ -27,7 +27,7 @@ Tujuannya adalah untuk memastikan bahwa saat kamu menggunakan MIUI, kamu tidak a
 
 
 >  <i class="bi bi-file-earmark-text"></i> Installation Guide  
-> - [Read <i class="bi bi-arrow-right-circle"></i>]({{ site.baseurl }}/docs/9-flashing/2-flash-miui.html)  
+> - [Read <i class="bi bi-arrow-right-circle"></i>]({{ site.baseurl }}/docs/5-rom/MIUI/flash-miui.html)  
 
 ---
 
