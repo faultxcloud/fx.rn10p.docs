@@ -106,4 +106,66 @@ Press the action button
 
 <img src="{{ '/assets/icons/check-green.png' | relative_url }}" width="16" style="vertical-align:middle;"> `MEETS_STRONG_INTEGRITY`  
 
+---
 
+# Run Bank App on Android Root (KSU Next)
+
+{: .warning }
+> I am not responsible for anything happened to your device do at your own risk!
+>
+> [`FaultX`](https://t.me/faultx003)  
+
+
+| Test ROM | Android | Kernel |
+|-|:-:|-|
+| LineageOS 22.2 OFFICIAL | 15 | [LOSPerf + KSUNext + SUSFS](https://t.me/venturplayground) |
+| PixelOS OFFICIAL | 15 | [Vantom KSU Next](https://t.me/venturplayground) |
+
+Root: 
+- [KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v1.0.8/KernelSU_Next_v1.0.8_12701-release.apk) `.apk`
+
+Required Modules:
+
+- [ReZygisk](https://github.com/PerformanC/ReZygisk/releases/download/v1.0.0-rc.2/ReZygisk-v1.0.0-rc.2-release.zip) 
+- [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)
+- [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/latest)
+- [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/latest)
+
+### Step Installation
+
+{: .note }
+> If you want (MEETS STRONG INTEGRITY) find a `keybox.xml` that has not been revoked. import `keybox.xml` in TrickyStore > Set Custom Keybox > find the `keybox.xml` that you got > save.
+
+1. Install Module
+   - Install ReZygisk / Zygisk Next
+   - Install Play Integrity Fix / Play Integrity Fork
+   - Tricky Store
+   - Reboot
+   - Install Tricky Addon
+   - Reboot
+
+2. Open KSU Next, Run Play Integrity Fix  
+    <details>
+     <summary markdown="span"> <i class="bi bi-camera"></i> Screenshoot</summary>
+     <img src="https://raw.githubusercontent.com/TriHermawan/RedmiNote10Pro/refs/heads/main/assets/bankapps/module/Screenshot_20250523-100318_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://raw.githubusercontent.com/TriHermawan/RedmiNote10Pro/refs/heads/main/assets/bankapps/module/Screenshot_20250523-100418_KernelSU%20Next.png" alt="" width="50%" height="auto">
+   </details>  
+
+3. Run Tricky Store ➜ Click the hamburger menu (three lines)
+   <details>
+     <summary markdown="span"> <i class="bi bi-camera"></i> Screenshoot</summary>
+     <img src="https://raw.githubusercontent.com/TriHermawan/RedmiNote10Pro/refs/heads/main/assets/bankapps/module/Screenshot_20250523-100427_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://raw.githubusercontent.com/TriHermawan/RedmiNote10Pro/refs/heads/main/assets/bankapps/module/Screenshot_20250523-100433_KernelSU%20Next.png" alt="" width="50%" height="auto"><img src="https://raw.githubusercontent.com/TriHermawan/RedmiNote10Pro/refs/heads/main/assets/bankapps/module/Screenshot_20250523-100448_KernelSU%20Next.png" alt="" width="50%" height="auto">
+   </details>  
+
+4. Clear Data PlayStore
+   <details>
+     <summary markdown="span"> <i class="bi bi-camera"></i> Screenshoot</summary>
+     <img src="https://raw.githubusercontent.com/TriHermawan/RedmiNote10Pro/refs/heads/main/assets/bankapps/module/Screenshot_20250523-085303_Settings.png" alt="" width="50%" height="auto"><img src="https://raw.githubusercontent.com/TriHermawan/RedmiNote10Pro/refs/heads/main/assets/bankapps/module/Screenshot_20250522-150607_Play%20Integrity%20API%20Checker.png" alt="" width="50%" height="auto">
+   </details>
+
+
+### Root Detection Apps (Optional)
+
+| App Name | Link |
+|-|-|
+| Momo | [Download](https://t.me/faultx003/140)
+| KeyAttestation (forked) | [Download](https://github.com/chiteroman/KeyAttestation/releases)
