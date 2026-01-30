@@ -96,7 +96,7 @@ Ini adalah hasil resmi langsung dari **Google Play Services**.
 
 - Install module [Play Integrity Inject](https://github.com/KOWX712/PlayIntegrityFix/releases/latest) or [Play integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases/latest)
 - Install module [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/latest)
-- Install module [Yurikey Manager](https://github.com/dpejoh/yurikey/releases/latest) by your root manager (Magisk/Apatch/KernelSu/Fork of KernelSU)
+- Install module [Yurikey Manager](https://github.com/dpejoh/yurikey/releases/latest) by your root manager (Magisk / Apatch / KernelSu / Fork of KernelSU)
 Press the action button
 
 <i class="fa-solid fa-shield-halved"></i> Hasilnya akan seperti ini:  
@@ -122,16 +122,16 @@ Press the action button
 | PixelOS OFFICIAL | 15 | [Vantom KSU Next](https://t.me/venturplayground) |
 
 Root: 
-- [KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases/download/v1.0.8/KernelSU_Next_v1.0.8_12701-release.apk) `.apk`
+- [KernelSU Next](https://github.com/KernelSU-Next/KernelSU-Next/releases/latest) (`KernelSU_Next_vx.x.x_xxxxx-release.apk`)
 
 Required Modules:
 
-- [ReZygisk](https://github.com/PerformanC/ReZygisk/releases/download/v1.0.0-rc.2/ReZygisk-v1.0.0-rc.2-release.zip) 
-- [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases)
-- [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/latest)
-- [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/latest)
+- [ReZygisk](https://github.com/PerformanC/ReZygisk/releases/latest) (`ReZygisk-vx.x.x-rc.x-release.zip`)
+- [Play Integrity Fork](https://github.com/osm0sis/PlayIntegrityFork/releases/latest) (`PlayIntegrityFork-vxx.zip`)
+- [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases/latest) (`Tricky-Store-vx.x.x-xxx-xxxxxxx-release.zip`)
+- [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/latest) (`TrickyAddonModule-vx.x.zip`)
 
-### Step Installation
+### Installation
 
 {: .note }
 > If you want (MEETS STRONG INTEGRITY) find a `keybox.xml` that has not been revoked. import `keybox.xml` in TrickyStore > Set Custom Keybox > find the `keybox.xml` that you got > save.
@@ -165,7 +165,5 @@ Required Modules:
 
 ### Root Detection Apps (Optional)
 
-| App Name | Link |
-|-|-|
-| Momo | [Download](https://t.me/faultx003/140)
-| KeyAttestation (forked) | [Download](https://github.com/chiteroman/KeyAttestation/releases)
+- [Momo]({{ site.baseurl }}/assets/apk/Momo_4.4.1.apk) `.apk` (MD5: `2e64a137c807a6ad6ecd1435a83dcca5`)
+- [Android Key Attestation Test App](https://github.com/vvb2060/KeyAttestation/releases/latest) `.apk`

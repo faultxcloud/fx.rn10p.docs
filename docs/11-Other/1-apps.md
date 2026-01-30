@@ -56,8 +56,8 @@ nav_order: 1
 
 - [Termux](https://f-droid.org/en/packages/com.termux/)
 - [Shizuku](https://github.com/RikkaApps/Shizuku)
-- [Momo](../assets/apk/Momo_4.4.1.apk) (TEE Check)
-- [Key Attestation Test](https://github.com/vvb2060/KeyAttestation)
+- [Momo]({{ site.baseurl }}/assets/apk/Momo_4.4.1.apk) (TEE Check)
+- [Android Key Attestation Test App](https://github.com/vvb2060/KeyAttestation/releases/latest)
 - [Android Native Root Detector](https://github.com/reveny/Android-Native-Root-Detector)
 - [DRM Info](https://play.google.com/store/apps/details?id=com.androidfung.drminfo)
 - [Device Info HW](https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw)

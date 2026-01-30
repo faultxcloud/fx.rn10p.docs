@@ -14,8 +14,9 @@ has_children: true
 
 
 <img src="{{ '/assets/icons/telegram.svg' | relative_url }}" width="16" style="vertical-align:middle;"> Telegram Group & Channel  
+- [FaultX (Redmi Note 10 Pro)](https://t.me/faultx003)
 - [Indonesia](https://t.me/RedmiNote10ProID) • [Channel](https://t.me/RedmiNote10ProIDUpdate)
 - [Global](https://t.me/RedmiNote10ProDiscussion) • [Channel](https://t.me/RedmiNote10ProChannel)
 - [Global (Photography)](https://t.me/RedmiNote10Pro_MaxPhotography) • [GCam and XMLs](https://t.me/RedmiNote10ProPhotographyChannel)
-- [FaultX • Redmi Note 10 Pro](https://t.me/faultx003)
+
 
