@@ -28,7 +28,6 @@ parent: Custom ROM
 
 ## Melalui adb Sideload
 
-
 File yang Harus Didownload dan simpan di laptop:  
 - [PixelOS ROM]({{ site.baseurl }}/docs/5-rom/CustomROM/5-pixelos.html) (khusus Redmi Note 10 Pro / Max [`sweet / sweetin`])  
 - Recovery PixelOS (`recovery-sweet_xxxxxxxx_xxxx.img`)  
@@ -36,6 +35,13 @@ File yang Harus Didownload dan simpan di laptop:
 - [Firmware Only]({{ site.baseurl }}/docs/5-rom/MIUI/2-firmware.html)
 
 ---
+
+<details close markdown="1">
+<summary markdown="span"> <i class="bi bi-camera"></i> Screenshoot</summary>
+
+![]({{ site.baseurl }}/assets/images/install-pos.png)
+
+</details>
 
 1. **Masuk Fastboot Mode**  
   - Matikan HP
